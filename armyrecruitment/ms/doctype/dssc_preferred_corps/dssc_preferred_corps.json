@@ -1,0 +1,59 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:preferred_corps",
+ "creation": "2024-12-05 14:26:25.189780",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "preferred_corps",
+  "discipline",
+  "enabled"
+ ],
+ "fields": [
+  {
+   "fieldname": "preferred_corps",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Preferred Corps",
+   "unique": 1
+  },
+  {
+   "fieldname": "discipline",
+   "fieldtype": "JSON",
+   "label": "Discipline"
+  },
+  {
+   "default": "1",
+   "fieldname": "enabled",
+   "fieldtype": "Check",
+   "in_list_view": 1,
+   "label": "Enabled"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-12-05 14:32:43.965790",
+ "modified_by": "Administrator",
+ "module": "MS",
+ "name": "DSSC Preferred Corps",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

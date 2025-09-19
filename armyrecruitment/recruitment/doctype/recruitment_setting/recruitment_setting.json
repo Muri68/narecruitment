@@ -1,0 +1,141 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-11-27 20:28:31.682259",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "banner_type",
+  "home_header",
+  "column_break_noyc",
+  "show_banner",
+  "banner_text",
+  "rri_section",
+  "publish_list",
+  "active_rri",
+  "application_end_instruction",
+  "dssc__ssc_section",
+  "active_application",
+  "publish_officers_list",
+  "column_break_laxd",
+  "publish_shortlist_type",
+  "publish_file",
+  "section_break_bulf",
+  "application_closed_description"
+ ],
+ "fields": [
+  {
+   "fieldname": "column_break_noyc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "show_banner",
+   "fieldtype": "Select",
+   "label": "Show Banner",
+   "options": "False\nTrue"
+  },
+  {
+   "depends_on": "eval: doc.show_banner == 'True'",
+   "fieldname": "banner_text",
+   "fieldtype": "Small Text",
+   "label": "Banner Text"
+  },
+  {
+   "fieldname": "banner_type",
+   "fieldtype": "Select",
+   "label": "Banner Type",
+   "options": "Announcement\nRRI\nSSC\nDSSC"
+  },
+  {
+   "fieldname": "home_header",
+   "fieldtype": "Data",
+   "label": "Home Header"
+  },
+  {
+   "fieldname": "publish_list",
+   "fieldtype": "Select",
+   "label": "Publish List",
+   "options": "No\nYes"
+  },
+  {
+   "fieldname": "rri_section",
+   "fieldtype": "Section Break",
+   "label": "RRI"
+  },
+  {
+   "fieldname": "dssc__ssc_section",
+   "fieldtype": "Section Break",
+   "label": "DSSC / SSC"
+  },
+  {
+   "fieldname": "active_application",
+   "fieldtype": "Link",
+   "label": "Active Application",
+   "options": "DSSC SSC Application Course"
+  },
+  {
+   "fieldname": "application_end_instruction",
+   "fieldtype": "Text Editor",
+   "label": "Application End Instruction"
+  },
+  {
+   "fieldname": "column_break_laxd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "publish_shortlist_type",
+   "fieldtype": "Select",
+   "label": "Publish Shortlist Type",
+   "options": "None\nExam\nScreening\nTraining"
+  },
+  {
+   "fieldname": "publish_file",
+   "fieldtype": "Attach",
+   "label": "Publish File"
+  },
+  {
+   "fieldname": "section_break_bulf",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "application_closed_description",
+   "fieldtype": "Small Text",
+   "label": "Application Closed Description"
+  },
+  {
+   "fieldname": "publish_officers_list",
+   "fieldtype": "Select",
+   "label": "Publish Officers List",
+   "options": "No\nYes"
+  },
+  {
+   "fieldname": "active_rri",
+   "fieldtype": "Link",
+   "label": "Active RRI",
+   "options": "Regular Intake Application"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-03-29 14:51:58.812945",
+ "modified_by": "Administrator",
+ "module": "Recruitment",
+ "name": "Recruitment Setting",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,120 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:intake_code",
+ "creation": "2024-11-30 09:43:44.876468",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "intake_name",
+  "from",
+  "to",
+  "column_break_lgqc",
+  "intake_code",
+  "min_age_trades",
+  "max_age_trades",
+  "min_age_non_trades",
+  "max_age_non_trades",
+  "section_break_vebv",
+  "method_of_application",
+  "benefit_of_service",
+  "basic_requirements",
+  "general_instructions"
+ ],
+ "fields": [
+  {
+   "fieldname": "intake_name",
+   "fieldtype": "Data",
+   "label": "Intake Name"
+  },
+  {
+   "fieldname": "column_break_lgqc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "intake_code",
+   "fieldtype": "Data",
+   "label": "Intake Code",
+   "unique": 1
+  },
+  {
+   "fieldname": "from",
+   "fieldtype": "Date",
+   "label": "From"
+  },
+  {
+   "fieldname": "to",
+   "fieldtype": "Date",
+   "label": "To"
+  },
+  {
+   "fieldname": "section_break_vebv",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "method_of_application",
+   "fieldtype": "Text Editor",
+   "label": "Method of Application"
+  },
+  {
+   "fieldname": "benefit_of_service",
+   "fieldtype": "Text Editor",
+   "label": "Benefit of Service"
+  },
+  {
+   "fieldname": "basic_requirements",
+   "fieldtype": "Text Editor",
+   "label": "Basic requirements"
+  },
+  {
+   "fieldname": "general_instructions",
+   "fieldtype": "Text Editor",
+   "label": "General Instructions"
+  },
+  {
+   "fieldname": "min_age_trades",
+   "fieldtype": "Data",
+   "label": "Min Age Trades"
+  },
+  {
+   "fieldname": "max_age_trades",
+   "fieldtype": "Data",
+   "label": "Max Age Trades"
+  },
+  {
+   "fieldname": "min_age_non_trades",
+   "fieldtype": "Data",
+   "label": "Min Age Non Trades"
+  },
+  {
+   "fieldname": "max_age_non_trades",
+   "fieldtype": "Data",
+   "label": "Max Age Non Trades"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-12-02 12:50:39.895576",
+ "modified_by": "Administrator",
+ "module": "DRM",
+ "name": "Regular Intake Application",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

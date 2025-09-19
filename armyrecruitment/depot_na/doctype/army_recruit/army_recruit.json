@@ -1,0 +1,321 @@
+{
+ "actions": [],
+ "autoname": "format:{intake}/{YYYY}/{#####}",
+ "creation": "2020-11-23 20:03:23.608660",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "personal_details_section",
+  "intake",
+  "identification_number",
+  "trades_category",
+  "passport_photograph",
+  "first_name",
+  "other_names",
+  "surname",
+  "gender",
+  "date_of_birth",
+  "place_of_birth",
+  "birth_certificate",
+  "state_of_origin",
+  "certificate_of_origin",
+  "column_break_12",
+  "local_government",
+  "town",
+  "height",
+  "weight",
+  "religion",
+  "marital_status",
+  "mobile_phone_number",
+  "residential_address",
+  "contact_address",
+  "tribal_marks",
+  "tattoo",
+  "educational_background_section",
+  "trade",
+  "primary_school",
+  "secondary_school",
+  "column_break_26",
+  "primary_school_period",
+  "secondary_school_period",
+  "column_break_32",
+  "primary_school_certificate",
+  "secondary_school_certificate",
+  "section_break_30",
+  "parade_state",
+  "status"
+ ],
+ "fields": [
+  {
+   "fieldname": "personal_details_section",
+   "fieldtype": "Section Break",
+   "label": "Personal Details"
+  },
+  {
+   "default": "80RRI",
+   "fieldname": "intake",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Intake",
+   "options": "Regular Recruit Intake"
+  },
+  {
+   "default": "Non-Trades",
+   "fieldname": "trades_category",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Trades Category",
+   "options": "Trades\nNon-Trades"
+  },
+  {
+   "fieldname": "passport_photograph",
+   "fieldtype": "Attach Image",
+   "label": "Passport Photograph"
+  },
+  {
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "First Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "other_names",
+   "fieldtype": "Data",
+   "label": "Other Names"
+  },
+  {
+   "fieldname": "surname",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Surname",
+   "reqd": 1
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Select",
+   "label": "Gender",
+   "options": "Male\nFemale"
+  },
+  {
+   "fieldname": "date_of_birth",
+   "fieldtype": "Date",
+   "label": "Date of Birth"
+  },
+  {
+   "fieldname": "place_of_birth",
+   "fieldtype": "Data",
+   "label": "Place of Birth"
+  },
+  {
+   "fieldname": "birth_certificate",
+   "fieldtype": "Attach",
+   "label": "Birth Certificate"
+  },
+  {
+   "fieldname": "state_of_origin",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "State of Origin",
+   "options": "Abia\nAdamawa\nAkwa Ibom\nAnambra\nBauchi\nBayelsa\nBenue\nBorno\nCross River\nDelta\nEbonyi\nEdo\nEkiti\nEnugu\nFCT - Abuja\nGombe\nImo\nJigawa\nKaduna\nKano\nKatsina\nKebbi\nKogi\nKwara\nLagos\nNasarawa\nNiger\nOgun\nOndo\nOsun\nOyo\nPlateau\nRivers\nSokoto\nTaraba\nYobe\nZamfara"
+  },
+  {
+   "fieldname": "certificate_of_origin",
+   "fieldtype": "Attach",
+   "label": "Certificate of Origin"
+  },
+  {
+   "fieldname": "column_break_12",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "local_government",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Local Government",
+   "options": "Aba North\nAba South\nAbadam\nAbaji\nAbak\nAbakaliki\nAbeokuta North\nAbeokuta South\nAbi\nAboh-Mbaise\nAbua/Odual\nAbuja Municipal\nAdavi\nAdo\nAdo\nAdo-Odo/Ota\nAfijio\nAfikpo North\nAfikpo South\nAgaie\nAgatu\nAgege\nAguata\nAgwara\nAhiazu-Mbaise\nAhoada East\nAhoada West\nAiyedade\nAiyedire\nAjaokuta\nAjeromi-Ifelodun\nAjingi\nAkamkpa\nAkinyele\nAkko\nAkoko Edo\nAkoko North East\nAkoko North West\nAkoko South Akure East\nAkoko South West\nAkpabuyo\nAkuku Toru\nAkure North\nAkure South\nAkwanga\nAlbasu\nAleiro\nAlimosho\nAlkaleri\nAmuwo-Odofin\nAnambra East\nAnambra West\nAnaocha\nAndoni\nAninri\nAniocha\nAniocha South\nAnka\nAnkpa\nApa\nApapa\nArdo-kola\nArewa-Dandi\nArgungu\nArochukwu\nAsa\nAsari-Toru\nAskira/Uba\nAtakumosa East\nAtakumosa West\nAtiba\nAtigbo\nAugie\nAuyo\nAwe\nAwgu\nAwka North\nAwka South\nAyamelum\nBabura\nBadagry\nBade\nBagudo\nBagwai\nBakassi\nBakori\nBakura\nBalanga\nBali\nBama\nBarikin Ladi\nBaruten\nBassa\nBassa\nBatagarawa\nBatsari\nBauchi\nBaure\nBayo\nBebeji\nBekwara\nBende\nBiase\nBichi\nBida\nBilliri\nBindawa\nBinji\nBiriniwa\nBirni Kudu\nBirni-Gwari\nBirnin Kebbi\nBirnin Magaji\nBiu\nBodinga\nBogoro\nBoki\nBokkos\nBoluwaduro\nBomadi\nBonny\nBorgu\nBoripe\nBosso\nBrass\nBuji\nBukkuyum\nBungudu\nBunkure\nBunza\nBursari\nBuruku\nBurutu\nBwari\nCalabar Municipality\nCalabar South\nCassol\nCentral\nChanchaga\nCharanchi\nChibok\nChikun\nDala\nDamaturu\nDamban\nDambatta\nDamboa\nDan Musa\nDandi\nDandume\nDange-shnsi\nDanja\nDarazo\nDass\nDaura\nDawakin Kudu\nDawakin Tofa\nDegema\nDekina\nDemsa\nDikwa\nDoguwa\nDoma\nDonga\nDukku\nDunukofia\nDutse\nDutsi\nDutsin-Ma\nEastern Obolo\nEbonyi\nEdati\nEde North\nEde South\nEdu\nEfon\nEgbado North\nEgbado South\nEgbeda\nEgbedore\nEgor\nEhime-Mbano\nEjigbo\nEkeremor\nEket\nEkiti\nEkiti South-West\nEkiti-East\nEkiti-West\nEkwusigo\nEleme\nEmohua\nEmure/Ise/Orun\nEnugu Eas\nEnugu North\nEnugu South\nEpe\nEsan Central\nEsan North-East\nEsan South-East\nEsan West\nEse-Odo\nEsit Eket\nEssien Udim\nEtche\nEthiope East\nEthiope West\nEtim Ekpo\nEtinan\nEti-Osa\nEtsako Central\nEtsako East\nEtsako West\nEtung\nEwekoro\nEzeagu\nEzinihitte\nEzza\nEzza South\nFagge\nFakai\nFaskari\nFika\nFufore\nFunakaye\nFune\nFuntua\nGabasawa\nGada\nGagarawa\nGanaye\nGanjuwa\nGamawa\nGarki\nGarko\nGarum\nGashaka\nGawabawa\nGaya\nGbako\nGboko\nGbonyin\nGeidam\nGezawa\nGiade\nGireri\nGiwa\nGokana\nGombe\nGombi\nGoronyo\nGubio\nGudu\nGujba\nGulani\nGuma\nGumel\nGummi\nGurara\nGuri\nGusau\nGuyuk\nGuzamala\nGwagwalada\nGwale\nGwandu\nGwaram\nGwarzo\nGwer East\nGwer West\nGwiwa\nGwoza\nHadejia\nHawul\nHong\nIbadan Central\nIbadan North\nIbadan North East\nIbadan North West\nIbadan South East\nIbadan South West\nIbaji\nIbarapa Central\nIbarapa East\nIbarapa North\nIbeju/Lekki\nIbeno\nIbesikpo Asutan\nIbi\nIbiono Ibom\nIdah\nIdanre\nIdeato North\nIdeato South\nIdemili North\nIdemili south\nIdo\nIdo/Osi\nIfako-Ijaye\nIfe Central\nIfe East\nIfe North\nIfe South\nIfedayo\nIfedore\nIfelodun\nIfelodun\nIfo\nIgabi\nIgalamela-Odolu\nIgbo-Ekiti\nIgboEze North\nIgbo-Eze South\nIgueben\nIhiala\nIhitte/Uboma\nIjebu East\nIjebu North\nIjebu North East\nIjebu Ode\nIjero\nIjumu\nIka\nIka North-East\nIka South\nIkara\nIkare\nIkeduru\nIkeja\nIkenne\nIkole\nIkom\nIkono\nIkorodu\nIkot Abasi\nIkot Ekpene\nIkwerre\nIkwuano\nIla\nIlaje\nIlejemeje\nIle-Oluji\nIlesha East\nIlesha West\nIllela\nIlorin East\nIlorin South\nIlorin West\nImeko-Afon\nIngawa\nIni\nIpokia\nIrele\nIrepo\nIrepodun\nIrepodun\nIrepodun\nIrewole\nIsa\nIse/Orun\nIseyin\nIshielu\nIsiala Mbano\nIsiala-Ngwa North\nIsiala-Ngwa South\nIsin\nIsi-Uzo\nIsokan\nIsoko North\nIsoko south\nIsu\nIsuikwato\nItas/Gadau\nItesiwaju\nItu\nIvo\nIwajowa\nIwo\njaba\nJada\nJahun\nJakusko\nJalingo\nJama'are\nJega\nJema'a\nJere\nJibia\nJos East\nJos North\nJos South\nKabba/Bunu\nKabo\nKachia\nKaduna North\nKaduna South\nKafin Hausa\nKafur\nKaga\nKagarko\nKaiama\nKaita\nKajola\nKajuru\nKala/Balge\nKalgo\nKaltungo\nKanam\nKankara\nKanke\nKankia\nKano Municipal\nKarasuwa\nKarawa\nKaraye\nKarin-Lamido\nKaru\nKatagum\nKatcha\nKatsina\nKatsina-Ala\nKaugama\nKaura\nKaura\nKauru\nKazaure\nKeana\nkebbe\nKeffi\nKhana\nKibiya\nKirfi\nKiri Kasamma\nKiru\nKiyawa\nKogi\nKoko/Besse\nKokona\nKolokuma/Opokuma\nKonduga\nKonshisha\nKontagora\nKosofe\nKubau\nKudan\nKuje\nKukawa\nkumbotso\nKunchi\nKura\nKurfi\nKurmi\nKusada\nKwali\nKwami\nKwande\nKware\nKwaya Kusar\nLafia\nLagelu Ogbomosho North\nLagos Island\nLagos Mainland\nLamurde\nLangtang North\nLangtang South\nLapai\nLau\nLavun\nLere\nlkwo\nLogo\nLokoja\nMachina\nMadagali\nMadobi\nMafa\nMagama\nMagumeri\nMai'Adua\nMaiduguri\nMaigatari\nMaiha\nMaiyama\nMakarfi\nMakoda\nMakurdi\nMalam Madori\nMallam\nMalumfashi\nMangu\nMani\nMaradun\nMariga\nMarte\nMaru\nMashegu\nMashi\nMatazuu\nMayo-Belwa\nMbaitoli\nMbaitoli\nMbo\nMichika\nMiga\nMikang\nMinjibir\nMisau\nMkpat Enin\nMoba\nMobbar\nMokwa\nMonguno\nMopa-Muro\nMoro\nMubi North\nMubi South\nMusawa\nMushin\nMuya\nNafada/Bajoga\nNamoda\nNangere\nNasarawa\nNasarawa\nNasarawa-Eggon\nNdokwa East\nNdokwa West\nNembe\nNgala\nNganzai\nNgaski\nNgor-Okpala\nNguru Potiskum\nNgwa\nNingi\nNjaba\nNjikoka\nNkanu\nNkanu East\nNkwerre\nNnewi North\nNnewi South\nNsit Atai\nNsit Ibom\nNsit Ubium\nNsukka\nNuman\nNwangele\nObafemi-Owode\nObanliku\nObi\nObi\nObi Nwa\nObia/Akpor\nObokun\nObot Akara\nObowo\nObudu\nOdeda\nOdigbo\nOdogbolu\nOdo-Otin\nOdubra\nOdukpani\nOffa\nOfu\nOgba/Egbema/Ndoni\nOgbadibo\nOgbaru\nOgbia\nOgbmosho South\nOgo Oluwa\nOgoja\nOgori/Mangongo\nOgu/Bolo\nOgun Waterside\nOguta\nOhafia\nOhaji/Egbema\nOhaozara\nOhaukwu\nOhimini\nOji-River\nOjo\nOju\nOke-Ero\nOkehi\nOkeigbo\nOkene\nOkigwe\nOkitipupa\nOkobo\nOkpe\nOkpokwu\nOkrika\nOlamabolo\nOla-Oluwa\nOlorunda\nOlorunsogo\nOluyole\nOmala\nOmumma\nOna-Ara\nOndo East\nOndo West\nOnicha\nOnitsha North\nOnitsha South\nOnna\nOnuimo\nOpobo/Nkoro\nOredo\nOrelope\nOrhionwon\nOri Ire\nOriade\nOrlu\nOrolu\nOron\nOrsu\nOru East\nOru West\nOruk Anam\nOrumba North\nOrumba South\nOse\nOshimili\nOshimili North\nOshodi-Isolo\nOsisioma\nOsogbo\nOturkpo\nOvia South-East\nOwan East\nOwan West\nOvia SouthWest\nOwerri North\nOwerri West\nOwerri-Municipal\nOwo\nOye\nOyi\nOyigbo\nOyo East\nOyo West\nOyun\nPailoro\nPankshin\nPatani\nPategi\nPort-Harcourt\nQua'an Pan\nRabah\nRafi\nRano\nRemo North\nRijau\nRimi\nRimin Gado\nRingim\nRiyom\nRogo\nRoni\nSabon birni\nSabon-Gari\nSabuwa\nSafana\nSagbama\nSakaba\nSaki East\nSaki West\nSandamu\nSanga\nSapele\nSardauna\nShagamu\nShagari\nShanga\nShani\nShanono\nShelleng\nShendam\nShinkafi\nShira\nShiroro\nShomgom\nShomolu\nSilame\nSoba\nSokoto North\nSokoto South\nSong\nSouthern Jaw\nSuleja\nSule-Tankarkar\nSumaila\nSuru\nSurulere\nSurulere\nTafa\nTafawa-Balewa\nTai\nTakali\nTakum\nTalata Mafara\nTambuwal\nTarauni\nTarka\nTarmua\nTaura\nTofa\nToro\nToto\nToungo\nTqngaza\nTsafe\nTsanyawa\nTudun Wada\nTureta\nUdenu\nUdi Agwu\nUdu\nUdung Uko\nUghelli North\nUghelli South\nUgwunagbo\nUhunmwonde\nUkanafun\nUkpoba\nUkum\nUkwa East\nUkwa West\nUkwani\nUmuahia North\nUmuahia South\nUmu-Neochi\nUngogo\nUruan\nUrue-Offong/Oruko\nUshongo\nUssa\nUvwie\nUyo\nUzo-Uwani\nVandeikya\nWamako\nWamba\nWarawa\nWarji\nWarri Central\nWarri North\nWarri South\nWasagu/Danko\nWase\nWudil\nWukari\nWurno\nWushishi\nYabo\nYagba East\nYagba West\nYala\nYamaltu/Deba\nYankwashi\nYarkur\nYauri\nYenegoa\nYola North\nYola South\nYorro\nYunusari\nYusufari\nZaki\nZango\nZango-Kataf\nZaria\nZing\nZurmi\nZuru"
+  },
+  {
+   "fieldname": "town",
+   "fieldtype": "Data",
+   "label": "Town of Origin"
+  },
+  {
+   "fieldname": "height",
+   "fieldtype": "Float",
+   "label": "Height"
+  },
+  {
+   "fieldname": "weight",
+   "fieldtype": "Data",
+   "label": "Weight"
+  },
+  {
+   "fieldname": "religion",
+   "fieldtype": "Select",
+   "label": "Religion",
+   "options": "Christianity\nIslam\nTraditional"
+  },
+  {
+   "fieldname": "marital_status",
+   "fieldtype": "Select",
+   "label": "Marital Status",
+   "options": "Single\nMarried\nWidowed\nSeparated\nDivorced"
+  },
+  {
+   "fieldname": "mobile_phone_number",
+   "fieldtype": "Data",
+   "label": "Mobile Phone Number"
+  },
+  {
+   "fieldname": "residential_address",
+   "fieldtype": "Data",
+   "label": "Residential Address"
+  },
+  {
+   "fieldname": "contact_address",
+   "fieldtype": "Data",
+   "label": "Contact Address"
+  },
+  {
+   "description": "Do you have tribal marks",
+   "fieldname": "tribal_marks",
+   "fieldtype": "Select",
+   "label": "Tribal Marks",
+   "options": "Yes\nNo"
+  },
+  {
+   "description": "Do you have any tattoo on your body ?",
+   "fieldname": "tattoo",
+   "fieldtype": "Select",
+   "label": "Tattoo",
+   "options": "Yes\nNo"
+  },
+  {
+   "fieldname": "educational_background_section",
+   "fieldtype": "Section Break",
+   "label": "Educational Background"
+  },
+  {
+   "depends_on": "eval:doc.trades_category == \"Trades\"",
+   "description": "Please indicate you trade (e.g Carpenter)",
+   "fieldname": "trade",
+   "fieldtype": "Data",
+   "label": "Trade"
+  },
+  {
+   "fieldname": "primary_school",
+   "fieldtype": "Data",
+   "label": "Primary School"
+  },
+  {
+   "fieldname": "secondary_school",
+   "fieldtype": "Data",
+   "label": "Secondary School"
+  },
+  {
+   "fieldname": "column_break_26",
+   "fieldtype": "Column Break"
+  },
+  {
+   "description": "Example: 2005 - 2011",
+   "fieldname": "primary_school_period",
+   "fieldtype": "Data",
+   "label": "Primary School Period"
+  },
+  {
+   "description": "Example: 2014 - 2020",
+   "fieldname": "secondary_school_period",
+   "fieldtype": "Data",
+   "label": "Secondary School Period"
+  },
+  {
+   "fieldname": "column_break_32",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "primary_school_certificate",
+   "fieldtype": "Attach",
+   "label": "Primary School Certificate"
+  },
+  {
+   "fieldname": "secondary_school_certificate",
+   "fieldtype": "Attach",
+   "label": "Secondary School Certificate"
+  },
+  {
+   "fieldname": "section_break_30",
+   "fieldtype": "Section Break"
+  },
+  {
+   "default": "Training",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Status",
+   "options": "Training\nPassed Out\nDismissed\nDeceased\nSOS"
+  },
+  {
+   "allow_in_quick_entry": 1,
+   "fieldname": "identification_number",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Identification Number",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "parade_state",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Parade State",
+   "options": "On Parade\nAbsent\nDuty\nOperation\nGuard Room\nHospital Admission"
+  }
+ ],
+ "links": [],
+ "modified": "2025-02-26 14:35:06.004999",
+ "modified_by": "Administrator",
+ "module": "Depot NA",
+ "name": "Army Recruit",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Depot NA Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Depot NA User",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

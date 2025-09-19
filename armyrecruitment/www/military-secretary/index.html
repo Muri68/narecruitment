@@ -1,0 +1,188 @@
+{% extends "templates/web.html" %}
+
+{% block page_content %}
+<!-- Header Section -->
+{% include "templates/pages/header.html" %}
+
+<!-- Cookie Notice -->
+{% include "templates/pages/cookie.html" %}
+
+<!-- Help Modal -->
+{% include "templates/pages/support.html" %}
+
+<!-- Status Banner -->
+<div class="bg-dark text-white d-flex justify-content-between align-items-stretch px-4">
+    <div class="py-3">{{ application_ongoing }} <i class="fa fa-bell" aria-hidden="true" style="color: red"></i></div>
+    <div class="need-help d-flex align-items-center px-4">
+      <button class="btn text-white" data-bs-toggle="modal" data-bs-target="#helpModal">Need Help <i class="fa fa-question-circle" aria-hidden="true"></i></button>
+    </div>
+  </div>
+<!-- Main Content -->
+<section class="main-content requirements-page">
+  <!-- Hero Banner -->
+  <div class="hero-banner2">
+    <div class="overlay"></div>
+    <div class="banner-content animate__animated animate__fadeIn">
+      <h1 class="display-4 fw-bold">{{course_name}}</h1>
+      <p class="lead">{{name}}</p>
+      <div class="military-badge">
+        <i class="fas fa-star fa-3x"></i>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Container -->
+  <div class="main-container">
+    {% if ms_applications %}
+    <div class="requirements-wrapper">
+      <!-- Important Notice -->
+      <div class="section-block notice-block animate__animated animate__fadeInUp">
+        <div class="alert-banner">
+          
+          <p><i class="fas fa-exclamation-triangle text-red"></i> &nbsp;<b>CAUTION:</b> THE GENERAL PUBLIC IS ADVISED TO DISREGARD ANY ONLINE APPLICATION PORTAL OPENED PRIOR TO THE PUBLICATION.</p>
+        </div>
+        <div class="alert-banner mt-3">
+          
+          <p><i class="fas fa-broadcast-tower text-success"></i> &nbsp;<b>NOTICE:</b> PROSPECTIVE APPLICANTS AND THE GENERAL PUBLIC ARE TO WATCH OUT FOR JINGLES ON TELEVISION AND RADIO STATIONS AFTER THIS PUBLICATION.</p>
+        </div>
+      </div>
+
+      <!-- Introduction -->
+      <div class="section-block animate__animated animate__fadeInUp">
+        <div class="section-header">
+          <div class="military-stripe"></div>
+          <h2><i class="fas fa-flag"></i> Introduction</h2>
+        </div>
+        <div class="content-box">
+          <p>{{is_recruitment_active.introduction}}</p>
+        </div>
+      </div>
+
+      <!-- Entry Requirements -->
+      <div class="section-block animate__animated animate__fadeInUp">
+        <div class="section-header">
+          <div class="military-stripe"></div>
+          <h2><i class="fas fa-clipboard-list"></i> Entry Requirements</h2>
+        </div>
+        <div class="requirements-grid">
+          <p>{{is_recruitment_active.entry_requirements}}</p>
+          <!-- Requirements cards here -->
+        </div>
+      </div>
+
+      <!-- Conditions of Service -->
+      <div class="section-block animate__animated animate__fadeInUp">
+        <div class="section-header">
+          <div class="military-stripe"></div>
+          <h2><i class="fas fa-file-contract"></i> Conditions of Service</h2>
+        </div>
+        <div class="service-conditions">
+          <!-- Service conditions here -->
+          <p>{{is_recruitment_active.conditions_of_service}}</p>
+        </div>
+      </div>
+
+      <!-- Application Process -->
+      <div class="section-block animate__animated animate__fadeInUp">
+        <div class="section-header">
+          <div class="military-stripe"></div>
+          <h2><i class="fas fa-tasks"></i> Method of Application</h2>
+        </div>
+        <div class="process-timeline">
+          <!-- Application steps here -->
+          {{is_recruitment_active.method_of_application}}
+        </div>
+      </div>
+
+      <!-- Contact Information -->
+      <div class="section-block animate__animated animate__fadeInUp">
+        <div class="section-header">
+          <div class="military-stripe"></div>
+          <h2><i class="fas fa-phone"></i> Further Information</h2>
+        </div>
+        <div class="contact-info">
+          <p>For further information, please call:</p>
+          <div class="phone-numbers">
+            <a href="tel:08179269294" class="contact-button text-info text-decoration-none">
+              <i class="fas fa-phone"></i> 08179269294
+            </a>
+            <a href="tel:08109959294" class="contact-button text-info text-decoration-none">
+              <i class="fas fa-phone"></i> 08109959294
+            </a>
+          </div>
+          <p class="timing">Available between 0800 - 1800 hours daily</p>
+        </div>
+      </div>
+
+      <!-- Apply Now Button -->
+       {% if not printUrl %}
+      <div class="cta-container animate__animated animate__pulse animate__infinite">
+        <a href="{{app_url}}" class="cta-button">
+          <span class="button-text">Start Your Application</span>
+          <div class="button-icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </a>
+      </div>
+      {% else %}
+      <div class="cta-container animate__animated animate__pulse animate__infinite">
+        <a href="{{printUrl}}" class="cta-button">
+          <span class="button-text">View Your Application</span>
+          <div class="button-icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </a>
+      </div>
+      {% endif %}
+    </div>
+    {% endif %}
+    {% if publish_list == 'No' and not ms_applications %}
+    <div class="requirements-wrapper text-muted">
+       <!-- General Instructions -->
+       <div class="section-block animate__animated animate__fadeInUp text-white">
+        <div class="section-header">
+          <div class="military-stripe"></div>
+          <h2><i class="fas fa-info-circle"></i> General Instructions</h2>
+        </div>
+        <div class="instructions-grid">
+          <div class="instruction-card">
+            <!-- <div class="instruction-number">01</div> -->
+            <p>{{ application_end_instruction }}</p>
+          </div>
+          <!-- Add remaining instructions similarly -->
+        </div>
+      </div>
+      
+    
+    </div>
+    {% endif %}
+    {% if publish_list == 'Yes' and not ms_applications %}
+    <div class="card card-default mx-4 my-3">
+      <div class="card-header">
+        <h4><strong><u id="appNo">SHORTLISTED CANDIDATES FOR {{ active_application }} {{publish_type}}</u></strong></h4>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<!-- Footer -->
+{% include "templates/pages/footer.html" %}
+{% include "templates/pages/3cx.html" %}
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<link rel="stylesheet" href="/assets/recruitment/font-awesome/css/all.min.css">
+<link rel="stylesheet" href="/assets/recruitment/css/drm.css">
+<link rel="stylesheet" href="/assets/recruitment/css/ms.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Nunito:wght@400;800&family=Sacramento&family=Roboto+Slab:wght@700&display=swap" rel="stylesheet">
+<!-- <link rel="stylesheet" href="/assets/recruitment/css/web.css"> -->
+
+{% endblock %}
+
+{% block script %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/recruitment/js/home.js"></script>
+{% endblock %}

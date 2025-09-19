@@ -1,0 +1,19 @@
+.action-banner{
+    display: none !important;
+}
+
+.widget.shortcut-widget-box {
+    border: 1px solid grey !important;
+    padding: 10px 25px !important;
+}
+
+.list-subject a {
+    color: #fff !important;
+    border: 1px solid green;
+    padding: 5px 10px;
+    background: green;
+    border-radius: 5px;
+}
+[card_name="Custom Reports"]{
+    display: none !important;
+}

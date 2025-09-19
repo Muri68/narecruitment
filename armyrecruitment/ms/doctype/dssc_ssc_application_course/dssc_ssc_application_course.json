@@ -1,0 +1,115 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:course_code",
+ "creation": "2024-12-02 12:57:32.384975",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "course_name",
+  "type_of_commission",
+  "from",
+  "column_break_tdlg",
+  "course_code",
+  "minimum_age",
+  "maximum_age",
+  "to",
+  "section_break_ovsx",
+  "introduction",
+  "entry_requirements",
+  "conditions_of_service",
+  "method_of_application"
+ ],
+ "fields": [
+  {
+   "fieldname": "course_name",
+   "fieldtype": "Data",
+   "label": "Course Name"
+  },
+  {
+   "fieldname": "type_of_commission",
+   "fieldtype": "Select",
+   "label": "Type of Commission",
+   "options": "\nSSC\nDSSC"
+  },
+  {
+   "fieldname": "column_break_tdlg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "course_code",
+   "fieldtype": "Data",
+   "label": "Course Code",
+   "unique": 1
+  },
+  {
+   "fieldname": "minimum_age",
+   "fieldtype": "Data",
+   "label": "Minimum Age"
+  },
+  {
+   "fieldname": "maximum_age",
+   "fieldtype": "Data",
+   "label": "Maximum Age"
+  },
+  {
+   "fieldname": "section_break_ovsx",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "introduction",
+   "fieldtype": "Text Editor",
+   "label": "Introduction"
+  },
+  {
+   "fieldname": "entry_requirements",
+   "fieldtype": "Text Editor",
+   "label": "Entry Requirements"
+  },
+  {
+   "fieldname": "conditions_of_service",
+   "fieldtype": "Text Editor",
+   "label": "Conditions of Service"
+  },
+  {
+   "fieldname": "method_of_application",
+   "fieldtype": "Text Editor",
+   "label": "Method of Application"
+  },
+  {
+   "fieldname": "from",
+   "fieldtype": "Date",
+   "label": "From"
+  },
+  {
+   "fieldname": "to",
+   "fieldtype": "Date",
+   "label": "To"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-12-05 14:09:46.962251",
+ "modified_by": "Administrator",
+ "module": "MS",
+ "name": "DSSC SSC Application Course",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

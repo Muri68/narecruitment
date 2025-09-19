@@ -1,0 +1,33 @@
+<header class="d-flex container justify-content-between align-items-center px-4 py-3">
+    <a href="/home" class="logo">
+      <div class="d-flex align-items-center">
+        <img src="/assets/armyrecruitment/image/logo.png" alt="Logo 1" class="me-2" style="height: 40px;">
+        <!-- <div class="logo-text">Nigerian Army Recruitment Portal</div> -->
+      </div>
+    </a>
+    <ul class="nav">
+      <li class="nav-item">
+        <a class="nav-link active" href="/"><i class="fa fa-home"></i>  Home</a>
+      </li>
+      {% if frappe.session.user == 'Guest' %}
+        <!-- Not logged in -->
+        <li class="nav-item">
+          <a class="nav-link active" href="/login">🔒 Login</a>
+        </li>
+        
+      {% else %}
+      <li class="nav-item">
+        <a class="nav-link active" onclick="handleLogout()"><i class="fa">&#xf08b;</i>  Logout</a>
+      </li>
+        <!-- Logged in with non-Guest role -->
+      {% endif %}
+    </ul>
+  </header>
+
+  <style>
+    a.logo{
+      text-decoration: none;
+    }
+  </style>
+
+ 

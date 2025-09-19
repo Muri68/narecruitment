@@ -1,0 +1,129 @@
+{% extends "templates/web.html" %}
+
+{% block page_content %}
+<!-- Header Section -->
+{% include "templates/pages/header.html" %}
+
+<!-- Cookie Notice -->
+{% include "templates/pages/cookie.html" %}
+
+<!-- Help Modal -->
+{% include "templates/pages/support.html" %}
+
+<!-- Status Banner -->
+<div class="bg-dark text-white d-flex justify-content-between align-items-stretch px-4">
+    <div class="py-3">{{ application_ongoing }}<i class="fa fa-bell" aria-hidden="true" style="color: red"></i></div>
+    <div class="need-help d-flex align-items-center px-4">
+      <button class="btn text-white" data-bs-toggle="modal" data-bs-target="#helpModal">Need Help <i class="fa fa-question-circle" aria-hidden="true"></i></button>
+    </div>
+  </div>
+
+<!-- Main Content -->
+<section class="main-content requirements-page">
+  <!-- Hero Banner -->
+  <div class="hero-banner">
+    <div class="overlay"></div>
+    <div class="banner-content animate__animated animate__fadeIn">
+      <h1 class="display-4 fw-bold">Regular Recruit Intake Requirement</h1>
+      <p class="lead">Join the Ranks of Nigeria's Finest</p>
+      <div class="military-badge">
+        <i class="fas fa-shield-alt fa-3x"></i>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Container -->
+  <div class="main-container">
+   
+    {% if publish_list == 'Yes' %}
+    <div class="requirements-wrapper text-muted">
+       <!-- General Instructions -->
+       <div class="section-block animate__animated animate__fadeInUp text-white">
+        <div class="section-header">
+          <div class="military-stripe"></div>
+          <h2><i class="fas fa-info-circle"></i> General Instructions</h2>
+        </div>
+        <div class="instructions-grid">
+          <div class="instruction-card">
+            <!-- <div class="instruction-number">01</div> -->
+            <p>{{ application_end_instruction }}</p>
+          </div>
+          <!-- Add remaining instructions similarly -->
+        </div>
+      </div>
+    </div>
+    <div class="card card-default mx-6 my-3">
+      {% if result %}
+      <div class="card-header">
+        <h4><strong><u id="appNo">SHORTLISTED CANDIDATES FOR TRADES/NON-TRADES MEN AND WOMEN FOR STATE RECRUITMENT SCREENING EXERCISE </u></strong></h4>
+        {% if view == 'state'%}
+          {% if state == 'FCT - Abuja' %}
+            <div style="text-transform: uppercase"><h5>{{state}}</h5></div>
+          {% else %}
+            <div style="text-transform: uppercase"><h5>{{state}} State</h5></div>
+          {% endif %}
+        {% endif %}
+      </div>
+      <div class="card-body">
+        {% if view == 'list' %}
+          <table class="table">
+            {% for item in result %}
+            <tr>
+                <td>
+                    {% if item['state'] == 'FCT - Abuja' %}
+                      <a href="?state={{item['state']}}">{{item['state']}}</a>
+                    {% else %}
+                      <a href="?state={{item['state']}}">{{item['state']}} State</a>
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+          </table>
+          {% else %}
+          {% set serial = namespace(value=1) %}
+          <table class="table">
+              <th>
+                <td><strong>Application Number</strong></td>
+                <td><strong>Surname</strong></td>
+                <td><strong>First Name</strong></td>
+                <td><strong>Other Name</strong></td>
+              </th>
+            {% for item in result %}
+              <tr>
+                <td>{{ serial.value}}</td>
+                <td>{{ item['name'] }}</td>
+                <td>{{ item['surname'] }}</td>
+                <td>{{ item['first_name'] }}</td>
+                <td>{{ item['other_names'] }}</td>
+              </tr>
+              {% set serial.value = serial.value + 1 %}
+            {% endfor %}
+          </table>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<!-- Footer -->
+{% include "templates/pages/3cx.html" %}
+{% include "templates/pages/footer.html" %}
+
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<link rel="stylesheet" href="/assets/armyrecruitment/font-awesome/css/all.min.css">
+<link rel="stylesheet" href="/assets/armyrecruitment/css/drm.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Nunito:wght@400;800&family=Sacramento&family=Roboto+Slab:wght@700&display=swap" rel="stylesheet">
+<!-- <link rel="stylesheet" href="/assets/armyrecruitment/css/web.css"> -->
+
+{% endblock %}
+
+{% block script %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/armyrecruitment/js/home.js"></script>
+{% endblock %}

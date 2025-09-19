@@ -1,0 +1,71 @@
+<form class="form-signin form-signup hide" role="form">
+    <div class="page-card-body">
+        <div class="form-group">
+            <label class="form-label sr-only" for="signup_fullname">{{ _("Full Name") }}</label>
+            <input type="text" id="signup_fullname" class="form-control" placeholder="{{ _('Ahmad Chinedu Gbolahan') }}"
+                required autofocus autocomplete="name">
+        </div>
+        <div class="form-group">
+            <label class="form-label sr-only" for="signup_email">{{ _("Email") }}</label>
+            <input type="email" id="signup_email" class="form-control"
+                placeholder="{{ _('email@example.com') }}" required autocomplete="username">
+        </div>
+        <div class="form-group">
+            <label class="form-label sr-only" for="signup_mobile">{{ _("Mobile Number") }}</label>
+            <input type="tel" id="signup_mobile" class="form-control"
+                placeholder="{{ _('08023....') }}" required autocomplete="mobile">
+        </div>
+        <div class="form-group">
+            <label class="form-label sr-only" for="state">{{ _("State of Origin") }}</label>
+            <select name="state" id="state" required autocomplete="state" class="form-control">
+                <option value="">State of Origin</option>
+                <option value="Abia">Abia</option>
+                <option value="Adamawa">Adamawa</option>
+                <option value="Akwa Ibom">Akwa Ibom</option>
+                <option value="Anambra">Anambra</option>
+                <option value="Bauchi">Bauchi</option>
+                <option value="Bayelsa">Bayelsa</option>
+                <option value="Benue">Benue</option>
+                <option value="Borno">Borno</option>
+                <option value="Cross River">Cross River</option>
+                <option value="Delta">Delta</option>
+                <option value="Ebonyi">Ebonyi</option>
+                <option value="Edo">Edo</option>
+                <option value="Ekiti">Ekiti</option>
+                <option value="Enugu">Enugu</option>
+                <option value="FCT">FCT</option>
+                <option value="Gombe">Gombe</option>
+                <option value="Imo">Imo</option>
+                <option value="Jigawa">Jigawa</option>
+                <option value="Kaduna">Kaduna</option>
+                <option value="Kano">Kano</option>
+                <option value="Katsina">Katsina</option>
+                <option value="Kebbi">Kebbi</option>
+                <option value="Kogi">Kogi</option>
+                <option value="Kwara">Kwara</option>
+                <option value="Lagos">Lagos</option>
+                <option value="Nasarawa">Nasarawa</option>
+                <option value="Niger">Niger</option>
+                <option value="Ogun">Ogun</option>
+                <option value="Ondo">Ondo</option>
+                <option value="Osun">Osun</option>
+                <option value="Oyo">Oyo</option>
+                <option value="Plateau">Plateau</option>
+                <option value="Rivers">Rivers</option>
+                <option value="Sokoto">Sokoto</option>
+                <option value="Taraba">Taraba</option>
+                <option value="Yobe">Yobe</option>
+                <option value="Zamfara">Zamfara</option>
+              </select>
+        </div>
+    </div>
+    <div class="page-card-actions">
+        <button class="btn btn-sm btn-primary btn-block btn-signup"
+            type="submit">{{ _("Sign up") }}</button>
+
+        <p class="text-center sign-up-message">
+            <a href="#login" class="blue">{{ _("Have an account? Login") }}</a>
+        </p>
+        
+    </div>
+</form>

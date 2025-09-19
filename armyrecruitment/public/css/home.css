@@ -1,0 +1,221 @@
+html, body{
+    height: 100%;
+}
+.bg-red{
+  background-color: rgb(180, 0, -0) !important;
+}
+.text-red{
+  color: rgb(180, 0, -0) !important;
+}
+.navbar-light{
+  display: none;
+}
+.page-content-wrapper{
+  padding-left: 0;
+  padding-right: 0;
+}
+.my-4{
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.web-footer{
+  display: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .home-banner{
+    background: url("/assets/armyrecruitment/image/banner-2.jpg") no-repeat center center/cover;
+  }
+  .logo-text {
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem; /* Adjust size */
+    font-weight: 800; /* Semi-bold for emphasis */
+    color: rgb(39, 42, 45); /* Custom brand color */
+  }
+  .candidate-journey{
+    background-color: rgb(180, 0, -0);
+  }
+  .nav-link{
+    color: #000;
+    font-size: 1rem;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+  }
+  .nav-link:hover{
+    color: rgb(180, 0, -0);;
+  }
+  /* Main Content Section */
+.main-content {
+    display: flex;
+    min-height: calc(100svh - 193px);
+    position: relative;
+    transition: clip-path 0.5s ease, background-color 0.5s ease;
+    /* width: 100%; */
+  }
+  
+  .content-left, .content-right {
+    flex: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  /* Left Side */
+  .content-left {
+    /* background: url('background.jpg') no-repeat center center/cover; */
+    color: white;
+    /* clip-path: polygon(0 0, 100% 0, 85% 100%, 0% 100%); */
+    z-index: 1;
+    padding: 20px;
+    min-height: 100%;
+    width: 100%;
+    background: #28a745; 
+    clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%);
+    /* width: 50%; */
+  }
+  
+  /* Right Side */
+  .content-right {
+    background: #000;
+    clip-path :polygon(0 0, 100% 10%, 100% 100%, 0 90%);
+    z-index: 1;
+    padding: 20px;
+    min-height: 100%;
+    width: 100%;
+  }
+  
+  /* Adjust text styles for content */
+  /* h1 {
+    font-size: 1.5rem;
+    font-family: 'Nunito', sans-serif;
+  } */
+  
+  .content-left p {
+    font-size: 1rem;
+  }
+  
+  .main-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adds a dark overlay to the background */
+    z-index: 0;
+  }
+
+/* Hover Effects */
+
+  
+  /* Adjust text styles for content */
+  .content-left h1, .content-right h1 {
+    font-size: 1.5rem;
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  .content-left p, .content-right p {
+    font-size: 1rem;
+    /* border: 1px solid; */
+    width: 80%;
+  }
+  /* Optional: Hover cursor effect */
+.content-left:hover, .content-right:hover {
+    cursor: pointer;
+  }
+  p {
+    font-family: 'Roboto', sans-serif; /* Modern and professional font */
+    font-size: 1rem; /* Base font size, adjust as needed */
+    line-height: 1.6; /* Adequate line spacing for readability */
+    letter-spacing: 0.5px; /* Slightly increased spacing for clarity */
+    /* color: #333; Neutral dark color for text */
+    margin-bottom: 1rem; /* Spacing between paragraphs */
+  }
+  
+  /* Footer */
+.footer {
+    font-size: 0.9rem;
+  }
+  .social-icons {
+    display: flex;
+    gap: 15px; /* Adjust the gap between the icons */
+  }
+  
+  .social-icons a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5rem; /* Icon size */
+    gap: 2px;
+  }
+  
+  .social-icons a:hover {
+    color: rgb(180, 0, -0); /* Hover color for icons */
+  }
+  .alert-title-container{
+    color: #fff !important;
+  }
+  .alert-message{
+    color: #fff !important;
+  }
+  .need-help{
+    background-color: rgb(180, 0, -0); 
+  }
+  .bg-gradient-primary {
+    background: linear-gradient(135deg, #000000 0%, #cc0000 100%) !important;
+    color: white !important;
+}
+
+.modal-backdrop.show {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.89 !important;
+}
+
+.modal-backdrop {
+  transition: background-color 0.3s ease !important;
+}
+
+  
+
+  /* Responsiveness */
+@media (max-width: 768px) {
+  .main-content {
+      flex-direction: column;
+      min-height: 100vh;
+  }
+  .logo-text {
+    font-size: 1.5rem;
+  }
+  .nav-link{
+    font-size: 0.8rem;
+  }
+  .content-right, .content-left{
+    padding: 30px 20px;
+  }
+  .social-icons a{
+    font-size: 0.9rem;
+  }
+  .footer {
+    font-size: 0.5rem;
+  }
+  p{
+    font-size: 0.8rem;
+  }
+  .social-icons {
+    gap: 8px; /* Adjust the gap between the icons */
+  }
+}
+

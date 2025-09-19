@@ -1,0 +1,105 @@
+{
+ "actions": [],
+ "autoname": "field:intake_code",
+ "creation": "2020-11-23 20:01:30.447972",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "intake_name",
+  "intake_code",
+  "year",
+  "resumption_date",
+  "pass_out_date",
+  "enlistment_date",
+  "status"
+ ],
+ "fields": [
+  {
+   "fieldname": "intake_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Intake Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "intake_code",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Intake Code",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "year",
+   "fieldtype": "Data",
+   "label": "Year"
+  },
+  {
+   "fieldname": "resumption_date",
+   "fieldtype": "Data",
+   "label": "Resumption Date"
+  },
+  {
+   "fieldname": "pass_out_date",
+   "fieldtype": "Data",
+   "label": "Pass Out Date"
+  },
+  {
+   "fieldname": "enlistment_date",
+   "fieldtype": "Data",
+   "label": "Enlistment Date"
+  },
+  {
+   "default": "Pre-Training",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Status",
+   "options": "Pre-Training\nTraining\nPassed Out\nArchived",
+   "reqd": 1
+  }
+ ],
+ "links": [],
+ "modified": "2020-11-23 20:01:30.447972",
+ "modified_by": "Administrator",
+ "module": "Depot NA",
+ "name": "Regular Recruit Intake",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "DSSC Applicant",
+   "share": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "DARRR Recruitment Applicant",
+   "share": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

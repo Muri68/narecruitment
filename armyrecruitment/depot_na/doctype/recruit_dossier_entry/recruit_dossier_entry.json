@@ -1,0 +1,117 @@
+{
+ "actions": [],
+ "autoname": "format:DEPOT-NA/ENTRY/{YY}/{#####}",
+ "creation": "2020-11-23 22:58:22.433505",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "recruit",
+  "first_name",
+  "surname",
+  "comment",
+  "date",
+  "details",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "recruit",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Recruit",
+   "options": "Army Recruit",
+   "reqd": 1
+  },
+  {
+   "default": "Disciplinary",
+   "fieldname": "comment",
+   "fieldtype": "Select",
+   "label": "Entry Type",
+   "options": "Award\nCommendation\nDisciplinary"
+  },
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Date",
+   "reqd": 1
+  },
+  {
+   "fieldname": "details",
+   "fieldtype": "Text Editor",
+   "label": "Details"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Recruit Dossier Entry",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fetch_from": "recruit.first_name",
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "label": "First Name",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "recruit.surname",
+   "fieldname": "surname",
+   "fieldtype": "Data",
+   "label": "Surname",
+   "read_only": 1
+  }
+ ],
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2020-11-24 00:18:45.983170",
+ "modified_by": "Administrator",
+ "module": "Depot NA",
+ "name": "Recruit Dossier Entry",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Depot NA Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Depot NA User",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

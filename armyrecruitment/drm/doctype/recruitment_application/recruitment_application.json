@@ -1,0 +1,580 @@
+{
+ "actions": [],
+ "allow_events_in_timeline": 1,
+ "allow_rename": 1,
+ "autoname": "format:{intake}-{state_code}-9{######}",
+ "creation": "2024-11-30 09:41:02.678973",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "nin_validation_tab",
+  "nin_validation_section_section",
+  "intake",
+  "date_of_birth",
+  "passport_photograph",
+  "passport_photograph_data",
+  "column_break_wals",
+  "trades_category",
+  "applicant_nin",
+  "surname",
+  "first_name",
+  "other_names",
+  "personal_details_tab",
+  "personal_details_section",
+  "state",
+  "state_code",
+  "local_government",
+  "religion",
+  "marital_status",
+  "column_break_bico",
+  "gender",
+  "age",
+  "height",
+  "weight",
+  "contact_details_tab",
+  "contact_details_section",
+  "mobile_number",
+  "contact_address",
+  "nok_name",
+  "nok_relationship",
+  "nok_phone_number",
+  "column_break_wtvg",
+  "email_address",
+  "permanent_address",
+  "nok_address",
+  "education_details_tab",
+  "educational_background_section",
+  "primary_school_name",
+  "primary_school_period",
+  "column_break_qnjl",
+  "secondary_school_name",
+  "secondary_school_period",
+  "section_break_lxfz",
+  "secondary_school_grades",
+  "documents__addtional_information_tab",
+  "documents_section",
+  "primary_school_certificate",
+  "secondary_school_certificate",
+  "trade_test_certificate",
+  "column_break_qiqq",
+  "birth_certificate",
+  "certificate_of_origin",
+  "additional_information_section",
+  "afn_service",
+  "have_you_ever_been_convicted",
+  "detained",
+  "declaration",
+  "column_break_mgfk",
+  "oversea_travel",
+  "countries_visited",
+  "admin_tab",
+  "admin_section_section",
+  "recruitment_status",
+  "column_break_gcqp",
+  "sponsored",
+  "sponsor",
+  "sro_tab",
+  "score_point",
+  "point_category",
+  "medical",
+  "column_break_zwpa",
+  "credential_screening",
+  "32_km",
+  "psyco",
+  "section_break_dnmc",
+  "medical_comment",
+  "credential_comment",
+  "candidate_status"
+ ],
+ "fields": [
+  {
+   "default": "89RRI",
+   "fieldname": "intake",
+   "fieldtype": "Link",
+   "label": "Intake",
+   "options": "Regular Intake Application",
+   "read_only": 1
+  },
+  {
+   "fieldname": "passport_photograph",
+   "fieldtype": "HTML",
+   "label": "Passport Photograph"
+  },
+  {
+   "fieldname": "state",
+   "fieldtype": "Link",
+   "in_standard_filter": 1,
+   "label": "State",
+   "options": "State",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "state.state_code",
+   "fieldname": "state_code",
+   "fieldtype": "Data",
+   "label": "State Code",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_bico",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "Nil",
+   "fieldname": "surname",
+   "fieldtype": "Data",
+   "label": "Surname",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "default": "Nil",
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "label": "First Name",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "other_names",
+   "fieldtype": "Data",
+   "label": "Other Names",
+   "read_only": 1
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Select",
+   "label": "Gender",
+   "options": "Male\nFemale"
+  },
+  {
+   "fieldname": "date_of_birth",
+   "fieldtype": "Date",
+   "label": "Date of Birth",
+   "reqd": 1
+  },
+  {
+   "fieldname": "age",
+   "fieldtype": "Data",
+   "label": "Age"
+  },
+  {
+   "fieldname": "documents_section",
+   "fieldtype": "Section Break",
+   "label": "Documents"
+  },
+  {
+   "fieldname": "primary_school_certificate",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Primary School Certificate"
+  },
+  {
+   "fieldname": "secondary_school_certificate",
+   "fieldtype": "Attach",
+   "label": "Secondary School Certificate"
+  },
+  {
+   "depends_on": "eval: doc.trades_category == 'Trades'",
+   "fieldname": "trade_test_certificate",
+   "fieldtype": "Attach",
+   "label": "Trade Test Certificate"
+  },
+  {
+   "fieldname": "column_break_qiqq",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "birth_certificate",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Birth Certificate"
+  },
+  {
+   "fieldname": "certificate_of_origin",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Certificate of Origin"
+  },
+  {
+   "fieldname": "personal_details_section",
+   "fieldtype": "Section Break",
+   "label": "Personal Details"
+  },
+  {
+   "fieldname": "nin_validation_section_section",
+   "fieldtype": "Section Break",
+   "label": "NIN Validation Section"
+  },
+  {
+   "fieldname": "column_break_wals",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "trades_category",
+   "fieldtype": "Select",
+   "in_standard_filter": 1,
+   "label": "Trades Category",
+   "options": "Non-Trades\nTrades",
+   "reqd": 1
+  },
+  {
+   "fieldname": "applicant_nin",
+   "fieldtype": "Data",
+   "in_standard_filter": 1,
+   "label": "Applicant NIN",
+   "non_negative": 1,
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "height",
+   "fieldtype": "Float",
+   "label": "Height (cm)",
+   "non_negative": 1,
+   "precision": "2"
+  },
+  {
+   "fieldname": "weight",
+   "fieldtype": "Int",
+   "label": "Weight (kg)",
+   "non_negative": 1
+  },
+  {
+   "depends_on": "eval: doc.state != undefined",
+   "fieldname": "local_government",
+   "fieldtype": "Link",
+   "in_standard_filter": 1,
+   "label": "Local Government",
+   "options": "Local Government"
+  },
+  {
+   "fieldname": "religion",
+   "fieldtype": "Select",
+   "label": "Religion",
+   "options": "Christianity\nIslam"
+  },
+  {
+   "fieldname": "marital_status",
+   "fieldtype": "Select",
+   "label": "Marital Status",
+   "options": "Single\nMarried\nWidowed\nSeparated\nDivorced"
+  },
+  {
+   "fieldname": "contact_details_section",
+   "fieldtype": "Section Break",
+   "label": "Contact Details"
+  },
+  {
+   "fieldname": "mobile_number",
+   "fieldtype": "Data",
+   "label": "Mobile Number"
+  },
+  {
+   "fieldname": "column_break_wtvg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "email_address",
+   "fieldtype": "Data",
+   "label": "Email Address",
+   "read_only": 1,
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "contact_address",
+   "fieldtype": "Small Text",
+   "label": "Contact Address"
+  },
+  {
+   "fieldname": "permanent_address",
+   "fieldtype": "Small Text",
+   "label": "Permanent Address"
+  },
+  {
+   "fieldname": "nok_name",
+   "fieldtype": "Data",
+   "label": "NOK Name"
+  },
+  {
+   "fieldname": "nok_relationship",
+   "fieldtype": "Select",
+   "label": "NOK Relationship",
+   "options": "Mother\nFather\nBrother\nSister\nGuardian"
+  },
+  {
+   "fieldname": "nok_address",
+   "fieldtype": "Small Text",
+   "label": "NOK Address"
+  },
+  {
+   "fieldname": "nok_phone_number",
+   "fieldtype": "Data",
+   "label": "NOK Phone Number"
+  },
+  {
+   "fieldname": "educational_background_section",
+   "fieldtype": "Section Break",
+   "label": "Educational Background"
+  },
+  {
+   "fieldname": "primary_school_name",
+   "fieldtype": "Data",
+   "label": "Primary School Name"
+  },
+  {
+   "description": "Example: 2012 - 2018",
+   "fieldname": "primary_school_period",
+   "fieldtype": "Data",
+   "label": "Primary School Period"
+  },
+  {
+   "fieldname": "column_break_qnjl",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "secondary_school_name",
+   "fieldtype": "Data",
+   "label": "Secondary School Name"
+  },
+  {
+   "description": "Example: 2018 - 2024",
+   "fieldname": "secondary_school_period",
+   "fieldtype": "Data",
+   "label": "Secondary School Period"
+  },
+  {
+   "fieldname": "section_break_lxfz",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "secondary_school_grades",
+   "fieldtype": "Table",
+   "label": "Secondary School Grades",
+   "options": "Subject Grade"
+  },
+  {
+   "fieldname": "afn_service",
+   "fieldtype": "Select",
+   "label": "Have you ever served in the Armed Forces of Nigeria?",
+   "options": "No\nYes"
+  },
+  {
+   "fieldname": "have_you_ever_been_convicted",
+   "fieldtype": "Select",
+   "label": "Have you ever been convicted?",
+   "options": "Yes\nNo"
+  },
+  {
+   "fieldname": "detained",
+   "fieldtype": "Select",
+   "label": "Have you ever been detained by the police?",
+   "options": "Yes\nNo"
+  },
+  {
+   "fieldname": "column_break_mgfk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "oversea_travel",
+   "fieldtype": "Select",
+   "label": "Overseas Travel?",
+   "options": "No\nYes"
+  },
+  {
+   "depends_on": "eval: doc.overseas_travel == 'Yes'",
+   "fieldname": "countries_visited",
+   "fieldtype": "Small Text",
+   "label": "Countries Visited"
+  },
+  {
+   "fieldname": "additional_information_section",
+   "fieldtype": "Section Break",
+   "label": "Additional Information"
+  },
+  {
+   "default": "0",
+   "description": "Confirm that all information entered are correct to the best of your knowledge.",
+   "fieldname": "declaration",
+   "fieldtype": "Check",
+   "label": "Declaration"
+  },
+  {
+   "fieldname": "admin_section_section",
+   "fieldtype": "Section Break",
+   "label": "Admin Section"
+  },
+  {
+   "default": "Pending",
+   "fieldname": "recruitment_status",
+   "fieldtype": "Select",
+   "in_standard_filter": 1,
+   "label": "Recruitment Status",
+   "options": "Pending\nSubmitted\nShortlisted\nRecruited"
+  },
+  {
+   "fieldname": "score_point",
+   "fieldtype": "Int",
+   "label": "Score Point"
+  },
+  {
+   "fieldname": "point_category",
+   "fieldtype": "Select",
+   "label": "Point Category",
+   "options": "C\nB\nA"
+  },
+  {
+   "fieldname": "column_break_gcqp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "sponsored",
+   "fieldtype": "Select",
+   "label": "Sponsored",
+   "options": "No\nYes"
+  },
+  {
+   "fieldname": "sponsor",
+   "fieldtype": "Data",
+   "label": "Sponsor"
+  },
+  {
+   "fieldname": "nin_validation_tab",
+   "fieldtype": "Tab Break",
+   "label": "NIN Validation"
+  },
+  {
+   "fieldname": "personal_details_tab",
+   "fieldtype": "Tab Break",
+   "label": "Personal Details"
+  },
+  {
+   "fieldname": "contact_details_tab",
+   "fieldtype": "Tab Break",
+   "label": "Contact Details"
+  },
+  {
+   "fieldname": "education_details_tab",
+   "fieldtype": "Tab Break",
+   "label": "Education Details"
+  },
+  {
+   "fieldname": "documents__addtional_information_tab",
+   "fieldtype": "Tab Break",
+   "label": "Documents / Addtional Information"
+  },
+  {
+   "fieldname": "admin_tab",
+   "fieldtype": "Tab Break",
+   "label": "Admin"
+  },
+  {
+   "fieldname": "sro_tab",
+   "fieldtype": "Tab Break",
+   "label": "SRO"
+  },
+  {
+   "fieldname": "medical",
+   "fieldtype": "Select",
+   "label": "Medical",
+   "options": "Pass\nFail"
+  },
+  {
+   "fieldname": "credential_screening",
+   "fieldtype": "Select",
+   "label": "Credential Screening",
+   "options": "Pending\nReview\nPass\nFail"
+  },
+  {
+   "fieldname": "32_km",
+   "fieldtype": "Select",
+   "label": "3.2 KM",
+   "options": "Pending\nBus 1\nBus 2\nBus 3\nBus 4"
+  },
+  {
+   "fieldname": "psyco",
+   "fieldtype": "Select",
+   "label": "Psyco"
+  },
+  {
+   "fieldname": "section_break_dnmc",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "medical_comment",
+   "fieldtype": "Small Text",
+   "label": "Medical Comment"
+  },
+  {
+   "fieldname": "credential_comment",
+   "fieldtype": "Small Text",
+   "label": "Credential Comment"
+  },
+  {
+   "fieldname": "candidate_status",
+   "fieldtype": "Select",
+   "label": "Candidate Status",
+   "options": "Screening\nSelected\nDisqualified"
+  },
+  {
+   "fieldname": "column_break_zwpa",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "passport_photograph_data",
+   "fieldtype": "Long Text",
+   "label": "Passport",
+   "read_only": 1
+  }
+ ],
+ "hide_toolbar": 1,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-05-30 20:11:03.412420",
+ "modified_by": "Administrator",
+ "module": "DRM",
+ "name": "Recruitment Application",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Guest",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "SRO",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

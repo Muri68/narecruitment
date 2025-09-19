@@ -1,0 +1,69 @@
+{
+ "charts": [
+  {
+   "chart_name": "Recruitment Chart",
+   "label": "Recruitment Chart"
+  }
+ ],
+ "content": "[{\"id\":\"Nk0ggOyb1g\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">DRM</span>\",\"col\":12}},{\"id\":\"93ZOSGDDhG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Recruitment Application\",\"col\":3}},{\"id\":\"PKHC1eUK7L\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Regular Intake Application\",\"col\":3}},{\"id\":\"F3XkR2EBOC\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Recruitment Chart\",\"col\":12}},{\"id\":\"K55eqsW7Ie\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports &amp; Master</b></span>\",\"col\":12}},{\"id\":\"SInu0GrbOs\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"All Applicants\",\"col\":3}},{\"id\":\"JLuxLA-cE-\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Group by State\",\"col\":3}}]",
+ "creation": "2025-05-30 20:36:18.675744",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "table",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "DRM",
+ "links": [],
+ "modified": "2025-05-30 21:49:10.495451",
+ "modified_by": "Administrator",
+ "module": "DRM",
+ "name": "DRM",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "sequence_id": 2.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Group by State",
+   "type": "URL",
+   "url": "/app/recruitment-application/view/report/Grouped%20by%20State"
+  },
+  {
+   "color": "Green",
+   "doc_view": "List",
+   "label": "Recruitment Application",
+   "link_to": "Recruitment Application",
+   "stats_filter": "[[\"Recruitment Application\",\"name\",\"is\",\"set\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "All Applicants",
+   "type": "URL",
+   "url": "/app/recruitment-application/view/report/All%20Applicants"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Regular Intake Application",
+   "link_to": "Regular Intake Application",
+   "stats_filter": "[[\"Regular Intake Application\",\"name\",\"is\",\"set\",false]]",
+   "type": "DocType"
+  }
+ ],
+ "title": "DRM"
+}

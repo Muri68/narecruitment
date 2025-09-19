@@ -1,0 +1,6202 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Umohia",
+  "modified": "2025-02-25 18:50:51.101395",
+  "name": "Umohia",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abadam",
+  "modified": "2025-03-01 17:34:57.269329",
+  "name": "Abadam",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abaji",
+  "modified": "2025-03-01 17:34:57.287020",
+  "name": "Abaji",
+  "state": "FCT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abak",
+  "modified": "2025-03-01 17:34:57.291353",
+  "name": "Abak",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abakaliki",
+  "modified": "2025-03-01 17:34:57.314954",
+  "name": "Abakaliki",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aba North",
+  "modified": "2025-03-01 17:34:57.321536",
+  "name": "Aba North",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aba South",
+  "modified": "2025-03-01 17:34:57.327701",
+  "name": "Aba South",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abeokuta North",
+  "modified": "2025-03-01 17:34:57.331924",
+  "name": "Abeokuta North",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abeokuta South",
+  "modified": "2025-03-01 17:34:57.337318",
+  "name": "Abeokuta South",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abi",
+  "modified": "2025-03-01 17:34:57.342125",
+  "name": "Abi",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aboh Mbaise",
+  "modified": "2025-03-01 17:34:57.356922",
+  "name": "Aboh Mbaise",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Abua/Odual",
+  "modified": "2025-03-01 17:34:57.364310",
+  "name": "Abua/Odual",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Adavi",
+  "modified": "2025-03-01 17:34:57.369490",
+  "name": "Adavi",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ado Ekiti",
+  "modified": "2025-03-01 17:34:57.374361",
+  "name": "Ado Ekiti",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ado-Odo/Ota",
+  "modified": "2025-03-01 17:34:57.379009",
+  "name": "Ado-Odo/Ota",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Afijio",
+  "modified": "2025-03-01 17:34:57.384117",
+  "name": "Afijio",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Afikpo North",
+  "modified": "2025-03-01 17:34:57.388842",
+  "name": "Afikpo North",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Afikpo South",
+  "modified": "2025-03-01 17:34:57.393484",
+  "name": "Afikpo South",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Agaie",
+  "modified": "2025-03-01 17:34:57.397456",
+  "name": "Agaie",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Agatu",
+  "modified": "2025-03-01 17:34:57.402300",
+  "name": "Agatu",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Agwara",
+  "modified": "2025-03-01 17:34:57.406978",
+  "name": "Agwara",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Agege",
+  "modified": "2025-03-01 17:34:57.411254",
+  "name": "Agege",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aguata",
+  "modified": "2025-03-01 17:34:57.415332",
+  "name": "Aguata",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ahiazu Mbaise",
+  "modified": "2025-03-01 17:34:57.420140",
+  "name": "Ahiazu Mbaise",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ahoada East",
+  "modified": "2025-03-01 17:34:57.424962",
+  "name": "Ahoada East",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ahoada West",
+  "modified": "2025-03-01 17:34:57.429171",
+  "name": "Ahoada West",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ajaokuta",
+  "modified": "2025-03-01 17:34:57.434710",
+  "name": "Ajaokuta",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ajeromi-Ifelodun",
+  "modified": "2025-03-01 17:34:57.439822",
+  "name": "Ajeromi-Ifelodun",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ajingi",
+  "modified": "2025-03-01 17:34:57.444280",
+  "name": "Ajingi",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akamkpa",
+  "modified": "2025-03-01 17:34:57.448941",
+  "name": "Akamkpa",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akinyele",
+  "modified": "2025-03-01 17:34:57.453856",
+  "name": "Akinyele",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akko",
+  "modified": "2025-03-01 17:34:57.459351",
+  "name": "Akko",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akoko-Edo",
+  "modified": "2025-03-01 17:34:57.463749",
+  "name": "Akoko-Edo",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akoko North-East",
+  "modified": "2025-03-01 17:34:57.471966",
+  "name": "Akoko North-East",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akoko North-West",
+  "modified": "2025-03-01 17:34:57.476488",
+  "name": "Akoko North-West",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akoko South-West",
+  "modified": "2025-03-01 17:34:57.480490",
+  "name": "Akoko South-West",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akoko South-East",
+  "modified": "2025-03-01 17:34:57.485939",
+  "name": "Akoko South-East",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akpabuyo",
+  "modified": "2025-03-01 17:34:57.490986",
+  "name": "Akpabuyo",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akuku-Toru",
+  "modified": "2025-03-01 17:34:57.495149",
+  "name": "Akuku-Toru",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akure North",
+  "modified": "2025-03-01 17:34:57.499099",
+  "name": "Akure North",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akure South",
+  "modified": "2025-03-01 17:34:57.503443",
+  "name": "Akure South",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Akwanga",
+  "modified": "2025-03-01 17:34:57.507596",
+  "name": "Akwanga",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Albasu",
+  "modified": "2025-03-01 17:34:57.511965",
+  "name": "Albasu",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aleiro",
+  "modified": "2025-03-01 17:34:57.515739",
+  "name": "Aleiro",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Alimosho",
+  "modified": "2025-03-01 17:34:57.520304",
+  "name": "Alimosho",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Alkaleri",
+  "modified": "2025-03-01 17:34:57.524686",
+  "name": "Alkaleri",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Amuwo-Odofin",
+  "modified": "2025-03-01 17:34:57.529480",
+  "name": "Amuwo-Odofin",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Anambra East",
+  "modified": "2025-03-01 17:34:57.533971",
+  "name": "Anambra East",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Anambra West",
+  "modified": "2025-03-01 17:34:57.538524",
+  "name": "Anambra West",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Anaocha",
+  "modified": "2025-03-01 17:34:57.543049",
+  "name": "Anaocha",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Andoni",
+  "modified": "2025-03-01 17:34:57.547017",
+  "name": "Andoni",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aninri",
+  "modified": "2025-03-01 17:34:57.552074",
+  "name": "Aninri",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aniocha North",
+  "modified": "2025-03-01 17:34:57.556665",
+  "name": "Aniocha North",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aniocha South",
+  "modified": "2025-03-01 17:34:57.561577",
+  "name": "Aniocha South",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Anka",
+  "modified": "2025-03-01 17:34:57.565576",
+  "name": "Anka",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ankpa",
+  "modified": "2025-03-01 17:34:57.571181",
+  "name": "Ankpa",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Apa",
+  "modified": "2025-03-01 17:34:57.576747",
+  "name": "Apa",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Apapa",
+  "modified": "2025-03-01 17:34:57.580728",
+  "name": "Apapa",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ado",
+  "modified": "2025-03-01 17:34:57.585229",
+  "name": "Ado",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ardo Kola",
+  "modified": "2025-03-01 17:34:57.589335",
+  "name": "Ardo Kola",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Arewa Dandi",
+  "modified": "2025-03-01 17:34:57.594037",
+  "name": "Arewa Dandi",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Argungu",
+  "modified": "2025-03-01 17:34:57.597643",
+  "name": "Argungu",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Arochukwu",
+  "modified": "2025-03-01 17:34:57.602144",
+  "name": "Arochukwu",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Asa",
+  "modified": "2025-03-01 17:34:57.606856",
+  "name": "Asa",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Asari-Toru",
+  "modified": "2025-03-01 17:34:57.611796",
+  "name": "Asari-Toru",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Askira/Uba",
+  "modified": "2025-03-01 17:34:57.616299",
+  "name": "Askira/Uba",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Atakunmosa East",
+  "modified": "2025-03-01 17:34:57.620251",
+  "name": "Atakunmosa East",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Atakunmosa West",
+  "modified": "2025-03-01 17:34:57.624192",
+  "name": "Atakunmosa West",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Atiba",
+  "modified": "2025-03-01 17:34:57.628952",
+  "name": "Atiba",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Atisbo",
+  "modified": "2025-03-01 17:34:57.633285",
+  "name": "Atisbo",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Augie",
+  "modified": "2025-03-01 17:34:57.637353",
+  "name": "Augie",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Auyo",
+  "modified": "2025-03-01 17:34:57.641005",
+  "name": "Auyo",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Awe",
+  "modified": "2025-03-01 17:34:57.645092",
+  "name": "Awe",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Awgu",
+  "modified": "2025-03-01 17:34:57.648694",
+  "name": "Awgu",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Awka North",
+  "modified": "2025-03-01 17:34:57.653096",
+  "name": "Awka North",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Awka South",
+  "modified": "2025-03-01 17:34:57.657560",
+  "name": "Awka South",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ayamelum",
+  "modified": "2025-03-01 17:34:57.662331",
+  "name": "Ayamelum",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aiyedaade",
+  "modified": "2025-03-01 17:34:57.666856",
+  "name": "Aiyedaade",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Aiyedire",
+  "modified": "2025-03-01 17:34:57.671007",
+  "name": "Aiyedire",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Babura",
+  "modified": "2025-03-01 17:34:57.674835",
+  "name": "Babura",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Badagry",
+  "modified": "2025-03-01 17:34:57.679406",
+  "name": "Badagry",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bagudo",
+  "modified": "2025-03-01 17:34:57.683828",
+  "name": "Bagudo",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bagwai",
+  "modified": "2025-03-01 17:34:57.687968",
+  "name": "Bagwai",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bakassi",
+  "modified": "2025-03-01 17:34:57.692234",
+  "name": "Bakassi",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bokkos",
+  "modified": "2025-03-01 17:34:57.696210",
+  "name": "Bokkos",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bakori",
+  "modified": "2025-03-01 17:34:57.701476",
+  "name": "Bakori",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bakura",
+  "modified": "2025-03-01 17:34:57.705842",
+  "name": "Bakura",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Balanga",
+  "modified": "2025-03-01 17:34:57.710586",
+  "name": "Balanga",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bali",
+  "modified": "2025-03-01 17:34:57.715227",
+  "name": "Bali",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bama",
+  "modified": "2025-03-01 17:34:57.719901",
+  "name": "Bama",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bade",
+  "modified": "2025-03-01 17:34:57.728900",
+  "name": "Bade",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Barkin Ladi",
+  "modified": "2025-03-01 17:34:57.737801",
+  "name": "Barkin Ladi",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Baruten",
+  "modified": "2025-03-01 17:34:57.742748",
+  "name": "Baruten",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bassa",
+  "modified": "2025-03-01 17:34:57.747460",
+  "name": "Bassa",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Batagarawa",
+  "modified": "2025-03-01 17:34:57.763160",
+  "name": "Batagarawa",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Batsari",
+  "modified": "2025-03-01 17:34:57.768269",
+  "name": "Batsari",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bauchi",
+  "modified": "2025-03-01 17:34:57.772421",
+  "name": "Bauchi",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Baure",
+  "modified": "2025-03-01 17:34:57.776787",
+  "name": "Baure",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bayo",
+  "modified": "2025-03-01 17:34:57.780895",
+  "name": "Bayo",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bebeji",
+  "modified": "2025-03-01 17:34:57.785709",
+  "name": "Bebeji",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bekwarra",
+  "modified": "2025-03-01 17:34:57.789893",
+  "name": "Bekwarra",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bende",
+  "modified": "2025-03-01 17:34:57.794478",
+  "name": "Bende",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Biase",
+  "modified": "2025-03-01 17:34:57.798256",
+  "name": "Biase",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bichi",
+  "modified": "2025-03-01 17:34:57.802950",
+  "name": "Bichi",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bida",
+  "modified": "2025-03-01 17:34:57.807178",
+  "name": "Bida",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Billiri",
+  "modified": "2025-03-01 17:34:57.811784",
+  "name": "Billiri",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bindawa",
+  "modified": "2025-03-01 17:34:57.815358",
+  "name": "Bindawa",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Binji",
+  "modified": "2025-03-01 17:34:57.820094",
+  "name": "Binji",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Biriniwa",
+  "modified": "2025-03-01 17:34:57.824311",
+  "name": "Biriniwa",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Birnin Gwari",
+  "modified": "2025-03-01 17:34:57.829404",
+  "name": "Birnin Gwari",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Birnin Kebbi",
+  "modified": "2025-03-01 17:34:57.833809",
+  "name": "Birnin Kebbi",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Birnin Kudu",
+  "modified": "2025-03-01 17:34:57.838164",
+  "name": "Birnin Kudu",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Birnin Magaji/Kiyaw",
+  "modified": "2025-03-01 17:34:57.842593",
+  "name": "Birnin Magaji/Kiyaw",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Biu",
+  "modified": "2025-03-01 17:34:57.846812",
+  "name": "Biu",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bodinga",
+  "modified": "2025-03-01 17:34:57.852555",
+  "name": "Bodinga",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bogoro",
+  "modified": "2025-03-01 17:34:57.856986",
+  "name": "Bogoro",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Boki",
+  "modified": "2025-03-01 17:34:57.861367",
+  "name": "Boki",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Boluwaduro",
+  "modified": "2025-03-01 17:34:57.865425",
+  "name": "Boluwaduro",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bomadi",
+  "modified": "2025-03-01 17:34:57.869802",
+  "name": "Bomadi",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bonny",
+  "modified": "2025-03-01 17:34:57.873918",
+  "name": "Bonny",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Borgu",
+  "modified": "2025-03-01 17:34:57.878019",
+  "name": "Borgu",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Boripe",
+  "modified": "2025-03-01 17:34:57.881444",
+  "name": "Boripe",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bursari",
+  "modified": "2025-03-01 17:34:57.885920",
+  "name": "Bursari",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bosso",
+  "modified": "2025-03-01 17:34:57.890082",
+  "name": "Bosso",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Brass",
+  "modified": "2025-03-01 17:34:57.894472",
+  "name": "Brass",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Buji",
+  "modified": "2025-03-01 17:34:57.897933",
+  "name": "Buji",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bukkuyum",
+  "modified": "2025-03-01 17:34:57.902406",
+  "name": "Bukkuyum",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Buruku",
+  "modified": "2025-03-01 17:34:57.906444",
+  "name": "Buruku",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bungudu",
+  "modified": "2025-03-01 17:34:57.910518",
+  "name": "Bungudu",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bunkure",
+  "modified": "2025-03-01 17:34:57.914204",
+  "name": "Bunkure",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bunza",
+  "modified": "2025-03-01 17:34:57.919459",
+  "name": "Bunza",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Burutu",
+  "modified": "2025-03-01 17:34:57.923409",
+  "name": "Burutu",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bwari",
+  "modified": "2025-03-01 17:34:57.927762",
+  "name": "Bwari",
+  "state": "FCT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Calabar Municipal",
+  "modified": "2025-03-01 17:34:57.931903",
+  "name": "Calabar Municipal",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Calabar South",
+  "modified": "2025-03-01 17:34:57.936648",
+  "name": "Calabar South",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Chanchaga",
+  "modified": "2025-03-01 17:34:57.940644",
+  "name": "Chanchaga",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Charanchi",
+  "modified": "2025-03-01 17:34:57.944725",
+  "name": "Charanchi",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Chibok",
+  "modified": "2025-03-01 17:34:57.948628",
+  "name": "Chibok",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Chikun",
+  "modified": "2025-03-01 17:34:57.953282",
+  "name": "Chikun",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dala",
+  "modified": "2025-03-01 17:34:57.957497",
+  "name": "Dala",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Damaturu",
+  "modified": "2025-03-01 17:34:57.961818",
+  "name": "Damaturu",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Damban",
+  "modified": "2025-03-01 17:34:57.966722",
+  "name": "Damban",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dambatta",
+  "modified": "2025-03-01 17:34:57.970939",
+  "name": "Dambatta",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Damboa",
+  "modified": "2025-03-01 17:34:57.974785",
+  "name": "Damboa",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dandi",
+  "modified": "2025-03-01 17:34:57.978993",
+  "name": "Dandi",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dandume",
+  "modified": "2025-03-01 17:34:57.982540",
+  "name": "Dandume",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dange Shuni",
+  "modified": "2025-03-01 17:34:57.986832",
+  "name": "Dange Shuni",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Danja",
+  "modified": "2025-03-01 17:34:57.990813",
+  "name": "Danja",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dan Musa",
+  "modified": "2025-03-01 17:34:57.994978",
+  "name": "Dan Musa",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Darazo",
+  "modified": "2025-03-01 17:34:57.999184",
+  "name": "Darazo",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dass",
+  "modified": "2025-03-01 17:34:58.003716",
+  "name": "Dass",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Daura",
+  "modified": "2025-03-01 17:34:58.008034",
+  "name": "Daura",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dawakin Kudu",
+  "modified": "2025-03-01 17:34:58.011888",
+  "name": "Dawakin Kudu",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dawakin Tofa",
+  "modified": "2025-03-01 17:34:58.015600",
+  "name": "Dawakin Tofa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Degema",
+  "modified": "2025-03-01 17:34:58.020521",
+  "name": "Degema",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dekina",
+  "modified": "2025-03-01 17:34:58.024757",
+  "name": "Dekina",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Demsa",
+  "modified": "2025-03-01 17:34:58.029107",
+  "name": "Demsa",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dikwa",
+  "modified": "2025-03-01 17:34:58.033708",
+  "name": "Dikwa",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Doguwa",
+  "modified": "2025-03-01 17:34:58.040938",
+  "name": "Doguwa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Doma",
+  "modified": "2025-03-01 17:34:58.045114",
+  "name": "Doma",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Donga",
+  "modified": "2025-03-01 17:34:58.049822",
+  "name": "Donga",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dukku",
+  "modified": "2025-03-01 17:34:58.054283",
+  "name": "Dukku",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dunukofia",
+  "modified": "2025-03-01 17:34:58.058343",
+  "name": "Dunukofia",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dutse",
+  "modified": "2025-03-01 17:34:58.063012",
+  "name": "Dutse",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dutsi",
+  "modified": "2025-03-01 17:34:58.079266",
+  "name": "Dutsi",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Dutsin Ma",
+  "modified": "2025-03-01 17:34:58.085520",
+  "name": "Dutsin Ma",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Eastern Obolo",
+  "modified": "2025-03-01 17:34:58.089793",
+  "name": "Eastern Obolo",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ebonyi",
+  "modified": "2025-03-01 17:34:58.094403",
+  "name": "Ebonyi",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Edati",
+  "modified": "2025-03-01 17:34:58.098464",
+  "name": "Edati",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ede North",
+  "modified": "2025-03-01 17:34:58.102854",
+  "name": "Ede North",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ede South",
+  "modified": "2025-03-01 17:34:58.107032",
+  "name": "Ede South",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Edu",
+  "modified": "2025-03-01 17:34:58.111187",
+  "name": "Edu",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ife Central",
+  "modified": "2025-03-01 17:34:58.116247",
+  "name": "Ife Central",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ife East",
+  "modified": "2025-03-01 17:34:58.120359",
+  "name": "Ife East",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ife North",
+  "modified": "2025-03-01 17:34:58.124547",
+  "name": "Ife North",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ife South",
+  "modified": "2025-03-01 17:34:58.128838",
+  "name": "Ife South",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Efon",
+  "modified": "2025-03-01 17:34:58.133431",
+  "name": "Efon",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Egbado North",
+  "modified": "2025-03-01 17:34:58.138127",
+  "name": "Egbado North",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Egbado South",
+  "modified": "2025-03-01 17:34:58.142123",
+  "name": "Egbado South",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Egbeda",
+  "modified": "2025-03-01 17:34:58.146715",
+  "name": "Egbeda",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Egbedore",
+  "modified": "2025-03-01 17:34:58.151378",
+  "name": "Egbedore",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Egor",
+  "modified": "2025-03-01 17:34:58.155810",
+  "name": "Egor",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ehime Mbano",
+  "modified": "2025-03-01 17:34:58.160115",
+  "name": "Ehime Mbano",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ejigbo",
+  "modified": "2025-03-01 17:34:58.164248",
+  "name": "Ejigbo",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ekeremor",
+  "modified": "2025-03-01 17:34:58.168614",
+  "name": "Ekeremor",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Eket",
+  "modified": "2025-03-01 17:34:58.172862",
+  "name": "Eket",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ekiti",
+  "modified": "2025-03-01 17:34:58.176986",
+  "name": "Ekiti",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ekiti East",
+  "modified": "2025-03-01 17:34:58.180903",
+  "name": "Ekiti East",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ekiti South-West",
+  "modified": "2025-03-01 17:34:58.186374",
+  "name": "Ekiti South-West",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ekiti West",
+  "modified": "2025-03-01 17:34:58.190433",
+  "name": "Ekiti West",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ekwusigo",
+  "modified": "2025-03-01 17:34:58.194774",
+  "name": "Ekwusigo",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Eleme",
+  "modified": "2025-03-01 17:34:58.198632",
+  "name": "Eleme",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Emuoha",
+  "modified": "2025-03-01 17:34:58.203268",
+  "name": "Emuoha",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Emure",
+  "modified": "2025-03-01 17:34:58.207248",
+  "name": "Emure",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Enugu East",
+  "modified": "2025-03-01 17:34:58.211687",
+  "name": "Enugu East",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Enugu North",
+  "modified": "2025-03-01 17:34:58.216261",
+  "name": "Enugu North",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Enugu South",
+  "modified": "2025-03-01 17:34:58.220649",
+  "name": "Enugu South",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Epe",
+  "modified": "2025-03-01 17:34:58.224698",
+  "name": "Epe",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Esan Central",
+  "modified": "2025-03-01 17:34:58.228929",
+  "name": "Esan Central",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Esan North-East",
+  "modified": "2025-03-01 17:34:58.234005",
+  "name": "Esan North-East",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Esan South-East",
+  "modified": "2025-03-01 17:34:58.238480",
+  "name": "Esan South-East",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Esan West",
+  "modified": "2025-03-01 17:34:58.242351",
+  "name": "Esan West",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ese Odo",
+  "modified": "2025-03-01 17:34:58.246416",
+  "name": "Ese Odo",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Esit Eket",
+  "modified": "2025-03-01 17:34:58.250828",
+  "name": "Esit Eket",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Essien Udim",
+  "modified": "2025-03-01 17:34:58.255321",
+  "name": "Essien Udim",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Etche",
+  "modified": "2025-03-01 17:34:58.259705",
+  "name": "Etche",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ethiope East",
+  "modified": "2025-03-01 17:34:58.263830",
+  "name": "Ethiope East",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ethiope West",
+  "modified": "2025-03-01 17:34:58.268015",
+  "name": "Ethiope West",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Etim Ekpo",
+  "modified": "2025-03-01 17:34:58.272192",
+  "name": "Etim Ekpo",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Etinan",
+  "modified": "2025-03-01 17:34:58.276627",
+  "name": "Etinan",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Eti Osa",
+  "modified": "2025-03-01 17:34:58.280503",
+  "name": "Eti Osa",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Etsako Central",
+  "modified": "2025-03-01 17:34:58.285169",
+  "name": "Etsako Central",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Etsako East",
+  "modified": "2025-03-01 17:34:58.289594",
+  "name": "Etsako East",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Etsako West",
+  "modified": "2025-03-01 17:34:58.293703",
+  "name": "Etsako West",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Etung",
+  "modified": "2025-03-01 17:34:58.297665",
+  "name": "Etung",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ewekoro",
+  "modified": "2025-03-01 17:34:58.302879",
+  "name": "Ewekoro",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ezeagu",
+  "modified": "2025-03-01 17:34:58.307180",
+  "name": "Ezeagu",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ezinihitte",
+  "modified": "2025-03-01 17:34:58.311468",
+  "name": "Ezinihitte",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ezza North",
+  "modified": "2025-03-01 17:34:58.315392",
+  "name": "Ezza North",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ezza South",
+  "modified": "2025-03-01 17:34:58.320264",
+  "name": "Ezza South",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Fagge",
+  "modified": "2025-03-01 17:34:58.324364",
+  "name": "Fagge",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Fakai",
+  "modified": "2025-03-01 17:34:58.328794",
+  "name": "Fakai",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Faskari",
+  "modified": "2025-03-01 17:34:58.333719",
+  "name": "Faskari",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Fika",
+  "modified": "2025-03-01 17:34:58.338451",
+  "name": "Fika",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Fufure",
+  "modified": "2025-03-01 17:34:58.342895",
+  "name": "Fufure",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Funakaye",
+  "modified": "2025-03-01 17:34:58.346892",
+  "name": "Funakaye",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Fune",
+  "modified": "2025-03-01 17:34:58.351488",
+  "name": "Fune",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Funtua",
+  "modified": "2025-03-01 17:34:58.356593",
+  "name": "Funtua",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gabasawa",
+  "modified": "2025-03-01 17:34:58.361352",
+  "name": "Gabasawa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gada",
+  "modified": "2025-03-01 17:34:58.366673",
+  "name": "Gada",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gagarawa",
+  "modified": "2025-03-01 17:34:58.371722",
+  "name": "Gagarawa",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gamawa",
+  "modified": "2025-03-01 17:34:58.376806",
+  "name": "Gamawa",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ganjuwa",
+  "modified": "2025-03-01 17:34:58.381411",
+  "name": "Ganjuwa",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ganye",
+  "modified": "2025-03-01 17:34:58.387305",
+  "name": "Ganye",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Garki",
+  "modified": "2025-03-01 17:34:58.391555",
+  "name": "Garki",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Garko",
+  "modified": "2025-03-01 17:34:58.396554",
+  "name": "Garko",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Garun Mallam",
+  "modified": "2025-03-01 17:34:58.401941",
+  "name": "Garun Mallam",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gashaka",
+  "modified": "2025-03-01 17:34:58.406985",
+  "name": "Gashaka",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gassol",
+  "modified": "2025-03-01 17:34:58.411925",
+  "name": "Gassol",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gaya",
+  "modified": "2025-03-01 17:34:58.416612",
+  "name": "Gaya",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gayuk",
+  "modified": "2025-03-01 17:34:58.421618",
+  "name": "Gayuk",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gezawa",
+  "modified": "2025-03-01 17:34:58.426615",
+  "name": "Gezawa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gbako",
+  "modified": "2025-03-01 17:34:58.431560",
+  "name": "Gbako",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gboko",
+  "modified": "2025-03-01 17:34:58.437076",
+  "name": "Gboko",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gbonyin",
+  "modified": "2025-03-01 17:34:58.442239",
+  "name": "Gbonyin",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Geidam",
+  "modified": "2025-03-01 17:34:58.447323",
+  "name": "Geidam",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Giade",
+  "modified": "2025-03-01 17:34:58.452853",
+  "name": "Giade",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Giwa",
+  "modified": "2025-03-01 17:34:58.457759",
+  "name": "Giwa",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gokana",
+  "modified": "2025-03-01 17:34:58.462389",
+  "name": "Gokana",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gombe",
+  "modified": "2025-03-01 17:34:58.467925",
+  "name": "Gombe",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gombi",
+  "modified": "2025-03-01 17:34:58.473151",
+  "name": "Gombi",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Goronyo",
+  "modified": "2025-03-01 17:34:58.478564",
+  "name": "Goronyo",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Grie",
+  "modified": "2025-03-01 17:34:58.483213",
+  "name": "Grie",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gubio",
+  "modified": "2025-03-01 17:34:58.488434",
+  "name": "Gubio",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gudu",
+  "modified": "2025-03-01 17:34:58.492975",
+  "name": "Gudu",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gujba",
+  "modified": "2025-03-01 17:34:58.497633",
+  "name": "Gujba",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gulani",
+  "modified": "2025-03-01 17:34:58.503747",
+  "name": "Gulani",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Guma",
+  "modified": "2025-03-01 17:34:58.508560",
+  "name": "Guma",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gumel",
+  "modified": "2025-03-01 17:34:58.513685",
+  "name": "Gumel",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gummi",
+  "modified": "2025-03-01 17:34:58.519071",
+  "name": "Gummi",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gurara",
+  "modified": "2025-03-01 17:34:58.524634",
+  "name": "Gurara",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Guri",
+  "modified": "2025-03-01 17:34:58.529408",
+  "name": "Guri",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gusau",
+  "modified": "2025-03-01 17:34:58.536003",
+  "name": "Gusau",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Guzamala",
+  "modified": "2025-03-01 17:34:58.540767",
+  "name": "Guzamala",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwadabawa",
+  "modified": "2025-03-01 17:34:58.545516",
+  "name": "Gwadabawa",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwagwalada",
+  "modified": "2025-03-01 17:34:58.552445",
+  "name": "Gwagwalada",
+  "state": "FCT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwale",
+  "modified": "2025-03-01 17:34:58.557217",
+  "name": "Gwale",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwandu",
+  "modified": "2025-03-01 17:34:58.562254",
+  "name": "Gwandu",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwaram",
+  "modified": "2025-03-01 17:34:58.566779",
+  "name": "Gwaram",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwarzo",
+  "modified": "2025-03-01 17:34:58.571448",
+  "name": "Gwarzo",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwer East",
+  "modified": "2025-03-01 17:34:58.576578",
+  "name": "Gwer East",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwer West",
+  "modified": "2025-03-01 17:34:58.581245",
+  "name": "Gwer West",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwiwa",
+  "modified": "2025-03-01 17:34:58.587048",
+  "name": "Gwiwa",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Gwoza",
+  "modified": "2025-03-01 17:34:58.592754",
+  "name": "Gwoza",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Hadejia",
+  "modified": "2025-03-01 17:34:58.597495",
+  "name": "Hadejia",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Hawul",
+  "modified": "2025-03-01 17:34:58.602558",
+  "name": "Hawul",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Hong",
+  "modified": "2025-03-01 17:34:58.607689",
+  "name": "Hong",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibadan North",
+  "modified": "2025-03-01 17:34:58.613611",
+  "name": "Ibadan North",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibadan North-East",
+  "modified": "2025-03-01 17:34:58.619256",
+  "name": "Ibadan North-East",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibadan North-West",
+  "modified": "2025-03-01 17:34:58.624908",
+  "name": "Ibadan North-West",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibadan South-East",
+  "modified": "2025-03-01 17:34:58.629485",
+  "name": "Ibadan South-East",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibadan South-West",
+  "modified": "2025-03-01 17:34:58.635225",
+  "name": "Ibadan South-West",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibaji",
+  "modified": "2025-03-01 17:34:58.640537",
+  "name": "Ibaji",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibarapa Central",
+  "modified": "2025-03-01 17:34:58.646228",
+  "name": "Ibarapa Central",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibarapa East",
+  "modified": "2025-03-01 17:34:58.651812",
+  "name": "Ibarapa East",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibarapa North",
+  "modified": "2025-03-01 17:34:58.655997",
+  "name": "Ibarapa North",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibeju-Lekki",
+  "modified": "2025-03-01 17:34:58.660871",
+  "name": "Ibeju-Lekki",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibeno",
+  "modified": "2025-03-01 17:34:58.674393",
+  "name": "Ibeno",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibesikpo Asutan",
+  "modified": "2025-03-01 17:34:58.679185",
+  "name": "Ibesikpo Asutan",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibi",
+  "modified": "2025-03-01 17:34:58.685004",
+  "name": "Ibi",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ibiono-Ibom",
+  "modified": "2025-03-01 17:34:58.689537",
+  "name": "Ibiono-Ibom",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Idah",
+  "modified": "2025-03-01 17:34:58.693786",
+  "name": "Idah",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Idanre",
+  "modified": "2025-03-01 17:34:58.697714",
+  "name": "Idanre",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ideato North",
+  "modified": "2025-03-01 17:34:58.702500",
+  "name": "Ideato North",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ideato South",
+  "modified": "2025-03-01 17:34:58.706681",
+  "name": "Ideato South",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Idemili North",
+  "modified": "2025-03-01 17:34:58.710901",
+  "name": "Idemili North",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Idemili South",
+  "modified": "2025-03-01 17:34:58.714947",
+  "name": "Idemili South",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ido",
+  "modified": "2025-03-01 17:34:58.719499",
+  "name": "Ido",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ido Osi",
+  "modified": "2025-03-01 17:34:58.723587",
+  "name": "Ido Osi",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ifako-Ijaiye",
+  "modified": "2025-03-01 17:34:58.727777",
+  "name": "Ifako-Ijaiye",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ifedayo",
+  "modified": "2025-03-01 17:34:58.731483",
+  "name": "Ifedayo",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ifedore",
+  "modified": "2025-03-01 17:34:58.735923",
+  "name": "Ifedore",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ifelodun",
+  "modified": "2025-03-01 17:34:58.740199",
+  "name": "Ifelodun",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ifo",
+  "modified": "2025-03-01 17:34:58.748005",
+  "name": "Ifo",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Igabi",
+  "modified": "2025-03-01 17:34:58.752509",
+  "name": "Igabi",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Igalamela Odolu",
+  "modified": "2025-03-01 17:34:58.756598",
+  "name": "Igalamela Odolu",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Igbo Etiti",
+  "modified": "2025-03-01 17:34:58.760986",
+  "name": "Igbo Etiti",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Igbo Eze North",
+  "modified": "2025-03-01 17:34:58.765567",
+  "name": "Igbo Eze North",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Igbo Eze South",
+  "modified": "2025-03-01 17:34:58.770407",
+  "name": "Igbo Eze South",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Igueben",
+  "modified": "2025-03-01 17:34:58.774783",
+  "name": "Igueben",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ihiala",
+  "modified": "2025-03-01 17:34:58.778785",
+  "name": "Ihiala",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ihitte/Uboma",
+  "modified": "2025-03-01 17:34:58.783135",
+  "name": "Ihitte/Uboma",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ilaje",
+  "modified": "2025-03-01 17:34:58.787432",
+  "name": "Ilaje",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ijebu East",
+  "modified": "2025-03-01 17:34:58.791725",
+  "name": "Ijebu East",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ijebu North",
+  "modified": "2025-03-01 17:34:58.796132",
+  "name": "Ijebu North",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ijebu North East",
+  "modified": "2025-03-01 17:34:58.801355",
+  "name": "Ijebu North East",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ijebu Ode",
+  "modified": "2025-03-01 17:34:58.805849",
+  "name": "Ijebu Ode",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ijero",
+  "modified": "2025-03-01 17:34:58.810272",
+  "name": "Ijero",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ijumu",
+  "modified": "2025-03-01 17:34:58.814114",
+  "name": "Ijumu",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ika",
+  "modified": "2025-03-01 17:34:58.818550",
+  "name": "Ika",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ika North East",
+  "modified": "2025-03-01 17:34:58.822723",
+  "name": "Ika North East",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikara",
+  "modified": "2025-03-01 17:34:58.827043",
+  "name": "Ikara",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ika South",
+  "modified": "2025-03-01 17:34:58.831016",
+  "name": "Ika South",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikeduru",
+  "modified": "2025-03-01 17:34:58.835796",
+  "name": "Ikeduru",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikeja",
+  "modified": "2025-03-01 17:34:58.840167",
+  "name": "Ikeja",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikenne",
+  "modified": "2025-03-01 17:34:58.844483",
+  "name": "Ikenne",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikere",
+  "modified": "2025-03-01 17:34:58.848409",
+  "name": "Ikere",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikole",
+  "modified": "2025-03-01 17:34:58.853083",
+  "name": "Ikole",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikom",
+  "modified": "2025-03-01 17:34:58.857170",
+  "name": "Ikom",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikono",
+  "modified": "2025-03-01 17:34:58.861448",
+  "name": "Ikono",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikorodu",
+  "modified": "2025-03-01 17:34:58.865565",
+  "name": "Ikorodu",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikot Abasi",
+  "modified": "2025-03-01 17:34:58.870372",
+  "name": "Ikot Abasi",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikot Ekpene",
+  "modified": "2025-03-01 17:34:58.874390",
+  "name": "Ikot Ekpene",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikpoba Okha",
+  "modified": "2025-03-01 17:34:58.879021",
+  "name": "Ikpoba Okha",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikwerre",
+  "modified": "2025-03-01 17:34:58.883859",
+  "name": "Ikwerre",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikwo",
+  "modified": "2025-03-01 17:34:58.888587",
+  "name": "Ikwo",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ikwuano",
+  "modified": "2025-03-01 17:34:58.893173",
+  "name": "Ikwuano",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ila",
+  "modified": "2025-03-01 17:34:58.897474",
+  "name": "Ila",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ilejemeje",
+  "modified": "2025-03-01 17:34:58.902767",
+  "name": "Ilejemeje",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ile Oluji/Okeigbo",
+  "modified": "2025-03-01 17:34:58.907233",
+  "name": "Ile Oluji/Okeigbo",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ilesa East",
+  "modified": "2025-03-01 17:34:58.911770",
+  "name": "Ilesa East",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ilesa West",
+  "modified": "2025-03-01 17:34:58.915944",
+  "name": "Ilesa West",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Illela",
+  "modified": "2025-03-01 17:34:58.920846",
+  "name": "Illela",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ilorin East",
+  "modified": "2025-03-01 17:34:58.925435",
+  "name": "Ilorin East",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ilorin South",
+  "modified": "2025-03-01 17:34:58.929925",
+  "name": "Ilorin South",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ilorin West",
+  "modified": "2025-03-01 17:34:58.934718",
+  "name": "Ilorin West",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Imeko Afon",
+  "modified": "2025-03-01 17:34:58.939521",
+  "name": "Imeko Afon",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ingawa",
+  "modified": "2025-03-01 17:34:58.944075",
+  "name": "Ingawa",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ini",
+  "modified": "2025-03-01 17:34:58.948143",
+  "name": "Ini",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ipokia",
+  "modified": "2025-03-01 17:34:58.952922",
+  "name": "Ipokia",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Irele",
+  "modified": "2025-03-01 17:34:58.957206",
+  "name": "Irele",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Irepo",
+  "modified": "2025-03-01 17:34:58.961644",
+  "name": "Irepo",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Irepodun",
+  "modified": "2025-03-01 17:34:58.965957",
+  "name": "Irepodun",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Irepodun/Ifelodun",
+  "modified": "2025-03-01 17:34:58.974682",
+  "name": "Irepodun/Ifelodun",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Irewole",
+  "modified": "2025-03-01 17:34:58.979457",
+  "name": "Irewole",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isa",
+  "modified": "2025-03-01 17:34:58.984773",
+  "name": "Isa",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ise/Orun",
+  "modified": "2025-03-01 17:34:58.989749",
+  "name": "Ise/Orun",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Iseyin",
+  "modified": "2025-03-01 17:34:58.994367",
+  "name": "Iseyin",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ishielu",
+  "modified": "2025-03-01 17:34:58.998644",
+  "name": "Ishielu",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isiala Mbano",
+  "modified": "2025-03-01 17:34:59.003763",
+  "name": "Isiala Mbano",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isiala Ngwa North",
+  "modified": "2025-03-01 17:34:59.007986",
+  "name": "Isiala Ngwa North",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isiala Ngwa South",
+  "modified": "2025-03-01 17:34:59.012625",
+  "name": "Isiala Ngwa South",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isin",
+  "modified": "2025-03-01 17:34:59.017433",
+  "name": "Isin",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isi Uzo",
+  "modified": "2025-03-01 17:34:59.022948",
+  "name": "Isi Uzo",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isokan",
+  "modified": "2025-03-01 17:34:59.027821",
+  "name": "Isokan",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isoko North",
+  "modified": "2025-03-01 17:34:59.032322",
+  "name": "Isoko North",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isoko South",
+  "modified": "2025-03-01 17:34:59.037522",
+  "name": "Isoko South",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isu",
+  "modified": "2025-03-01 17:34:59.042006",
+  "name": "Isu",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Isuikwuato",
+  "modified": "2025-03-01 17:34:59.046645",
+  "name": "Isuikwuato",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Itas/Gadau",
+  "modified": "2025-03-01 17:34:59.052829",
+  "name": "Itas/Gadau",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Itesiwaju",
+  "modified": "2025-03-01 17:34:59.057556",
+  "name": "Itesiwaju",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Itu",
+  "modified": "2025-03-01 17:34:59.061976",
+  "name": "Itu",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ivo",
+  "modified": "2025-03-01 17:34:59.066791",
+  "name": "Ivo",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Iwajowa",
+  "modified": "2025-03-01 17:34:59.071786",
+  "name": "Iwajowa",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Iwo",
+  "modified": "2025-03-01 17:34:59.076044",
+  "name": "Iwo",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Izzi",
+  "modified": "2025-03-01 17:34:59.080485",
+  "name": "Izzi",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jaba",
+  "modified": "2025-03-01 17:34:59.085459",
+  "name": "Jaba",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jada",
+  "modified": "2025-03-01 17:34:59.090052",
+  "name": "Jada",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jahun",
+  "modified": "2025-03-01 17:34:59.094791",
+  "name": "Jahun",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jakusko",
+  "modified": "2025-03-01 17:34:59.099338",
+  "name": "Jakusko",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jalingo",
+  "modified": "2025-03-01 17:34:59.104213",
+  "name": "Jalingo",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jama'are",
+  "modified": "2025-03-01 17:34:59.109107",
+  "name": "Jama'are",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jega",
+  "modified": "2025-03-01 17:34:59.113262",
+  "name": "Jega",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jema'a",
+  "modified": "2025-03-01 17:34:59.119461",
+  "name": "Jema'a",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jere",
+  "modified": "2025-03-01 17:34:59.124185",
+  "name": "Jere",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jibia",
+  "modified": "2025-03-01 17:34:59.145060",
+  "name": "Jibia",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jos East",
+  "modified": "2025-03-01 17:34:59.153397",
+  "name": "Jos East",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jos North",
+  "modified": "2025-03-01 17:34:59.157904",
+  "name": "Jos North",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Jos South",
+  "modified": "2025-03-01 17:34:59.162030",
+  "name": "Jos South",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kabba/Bunu",
+  "modified": "2025-03-01 17:34:59.166267",
+  "name": "Kabba/Bunu",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kabo",
+  "modified": "2025-03-01 17:34:59.171096",
+  "name": "Kabo",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kachia",
+  "modified": "2025-03-01 17:34:59.176022",
+  "name": "Kachia",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaduna North",
+  "modified": "2025-03-01 17:34:59.180425",
+  "name": "Kaduna North",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaduna South",
+  "modified": "2025-03-01 17:34:59.184920",
+  "name": "Kaduna South",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kafin Hausa",
+  "modified": "2025-03-01 17:34:59.189735",
+  "name": "Kafin Hausa",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kafur",
+  "modified": "2025-03-01 17:34:59.194482",
+  "name": "Kafur",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaga",
+  "modified": "2025-03-01 17:34:59.198959",
+  "name": "Kaga",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kagarko",
+  "modified": "2025-03-01 17:34:59.203696",
+  "name": "Kagarko",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaiama",
+  "modified": "2025-03-01 17:34:59.208389",
+  "name": "Kaiama",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaita",
+  "modified": "2025-03-01 17:34:59.212519",
+  "name": "Kaita",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kajola",
+  "modified": "2025-03-01 17:34:59.217472",
+  "name": "Kajola",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kajuru",
+  "modified": "2025-03-01 17:34:59.221664",
+  "name": "Kajuru",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kala/Balge",
+  "modified": "2025-03-01 17:34:59.226084",
+  "name": "Kala/Balge",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kalgo",
+  "modified": "2025-03-01 17:34:59.230238",
+  "name": "Kalgo",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaltungo",
+  "modified": "2025-03-01 17:34:59.234836",
+  "name": "Kaltungo",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kanam",
+  "modified": "2025-03-01 17:34:59.239508",
+  "name": "Kanam",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kankara",
+  "modified": "2025-03-01 17:34:59.243803",
+  "name": "Kankara",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kanke",
+  "modified": "2025-03-01 17:34:59.247566",
+  "name": "Kanke",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kankia",
+  "modified": "2025-03-01 17:34:59.252332",
+  "name": "Kankia",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kano Municipal",
+  "modified": "2025-03-01 17:34:59.256516",
+  "name": "Kano Municipal",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Karasuwa",
+  "modified": "2025-03-01 17:34:59.260882",
+  "name": "Karasuwa",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Karaye",
+  "modified": "2025-03-01 17:34:59.264617",
+  "name": "Karaye",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Karim Lamido",
+  "modified": "2025-03-01 17:34:59.269350",
+  "name": "Karim Lamido",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Karu",
+  "modified": "2025-03-01 17:34:59.273437",
+  "name": "Karu",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Katagum",
+  "modified": "2025-03-01 17:34:59.277603",
+  "name": "Katagum",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Katcha",
+  "modified": "2025-03-01 17:34:59.281278",
+  "name": "Katcha",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Katsina",
+  "modified": "2025-03-01 17:34:59.286567",
+  "name": "Katsina",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Katsina-Ala",
+  "modified": "2025-03-01 17:34:59.290865",
+  "name": "Katsina-Ala",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaura",
+  "modified": "2025-03-01 17:34:59.295042",
+  "name": "Kaura",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaura Namoda",
+  "modified": "2025-03-01 17:34:59.299094",
+  "name": "Kaura Namoda",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kauru",
+  "modified": "2025-03-01 17:34:59.303555",
+  "name": "Kauru",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kazaure",
+  "modified": "2025-03-01 17:34:59.307626",
+  "name": "Kazaure",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Keana",
+  "modified": "2025-03-01 17:34:59.311913",
+  "name": "Keana",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kebbe",
+  "modified": "2025-03-01 17:34:59.315833",
+  "name": "Kebbe",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Keffi",
+  "modified": "2025-03-01 17:34:59.320464",
+  "name": "Keffi",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Khana",
+  "modified": "2025-03-01 17:34:59.324705",
+  "name": "Khana",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kibiya",
+  "modified": "2025-03-01 17:34:59.329101",
+  "name": "Kibiya",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kirfi",
+  "modified": "2025-03-01 17:34:59.333447",
+  "name": "Kirfi",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kiri Kasama",
+  "modified": "2025-03-01 17:34:59.338171",
+  "name": "Kiri Kasama",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kiru",
+  "modified": "2025-03-01 17:34:59.342254",
+  "name": "Kiru",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kiyawa",
+  "modified": "2025-03-01 17:34:59.346545",
+  "name": "Kiyawa",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kogi",
+  "modified": "2025-03-01 17:34:59.351480",
+  "name": "Kogi",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Koko/Besse",
+  "modified": "2025-03-01 17:34:59.356002",
+  "name": "Koko/Besse",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kokona",
+  "modified": "2025-03-01 17:34:59.360357",
+  "name": "Kokona",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kolokuma/Opokuma",
+  "modified": "2025-03-01 17:34:59.364440",
+  "name": "Kolokuma/Opokuma",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Konduga",
+  "modified": "2025-03-01 17:34:59.368944",
+  "name": "Konduga",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Konshisha",
+  "modified": "2025-03-01 17:34:59.373093",
+  "name": "Konshisha",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kontagora",
+  "modified": "2025-03-01 17:34:59.378063",
+  "name": "Kontagora",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kosofe",
+  "modified": "2025-03-01 17:34:59.382473",
+  "name": "Kosofe",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kaugama",
+  "modified": "2025-03-01 17:34:59.386799",
+  "name": "Kaugama",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kubau",
+  "modified": "2025-03-01 17:34:59.390768",
+  "name": "Kubau",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kudan",
+  "modified": "2025-03-01 17:34:59.395228",
+  "name": "Kudan",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kuje",
+  "modified": "2025-03-01 17:34:59.399079",
+  "name": "Kuje",
+  "state": "FCT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kukawa",
+  "modified": "2025-03-01 17:34:59.403576",
+  "name": "Kukawa",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kumbotso",
+  "modified": "2025-03-01 17:34:59.408298",
+  "name": "Kumbotso",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kumi",
+  "modified": "2025-03-01 17:34:59.412308",
+  "name": "Kumi",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kunchi",
+  "modified": "2025-03-01 17:34:59.417421",
+  "name": "Kunchi",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kura",
+  "modified": "2025-03-01 17:34:59.421658",
+  "name": "Kura",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kurfi",
+  "modified": "2025-03-01 17:34:59.425960",
+  "name": "Kurfi",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kusada",
+  "modified": "2025-03-01 17:34:59.430070",
+  "name": "Kusada",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kwali",
+  "modified": "2025-03-01 17:34:59.434779",
+  "name": "Kwali",
+  "state": "FCT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kwande",
+  "modified": "2025-03-01 17:34:59.439060",
+  "name": "Kwande",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kwami",
+  "modified": "2025-03-01 17:34:59.443059",
+  "name": "Kwami",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kware",
+  "modified": "2025-03-01 17:34:59.447194",
+  "name": "Kware",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Kwaya Kusar",
+  "modified": "2025-03-01 17:34:59.451789",
+  "name": "Kwaya Kusar",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lafia",
+  "modified": "2025-03-01 17:34:59.455977",
+  "name": "Lafia",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lagelu",
+  "modified": "2025-03-01 17:34:59.460243",
+  "name": "Lagelu",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lagos Island",
+  "modified": "2025-03-01 17:34:59.464226",
+  "name": "Lagos Island",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lagos Mainland",
+  "modified": "2025-03-01 17:34:59.468853",
+  "name": "Lagos Mainland",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Langtang South",
+  "modified": "2025-03-01 17:34:59.473192",
+  "name": "Langtang South",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Langtang North",
+  "modified": "2025-03-01 17:34:59.477661",
+  "name": "Langtang North",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lapai",
+  "modified": "2025-03-01 17:34:59.481651",
+  "name": "Lapai",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lamurde",
+  "modified": "2025-03-01 17:34:59.486687",
+  "name": "Lamurde",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lau",
+  "modified": "2025-03-01 17:34:59.490812",
+  "name": "Lau",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lavun",
+  "modified": "2025-03-01 17:34:59.495198",
+  "name": "Lavun",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lere",
+  "modified": "2025-03-01 17:34:59.499620",
+  "name": "Lere",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Logo",
+  "modified": "2025-03-01 17:34:59.504000",
+  "name": "Logo",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Lokoja",
+  "modified": "2025-03-01 17:34:59.508378",
+  "name": "Lokoja",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Machina",
+  "modified": "2025-03-01 17:34:59.512657",
+  "name": "Machina",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Madagali",
+  "modified": "2025-03-01 17:34:59.517211",
+  "name": "Madagali",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Madobi",
+  "modified": "2025-03-01 17:34:59.521612",
+  "name": "Madobi",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mafa",
+  "modified": "2025-03-01 17:34:59.526217",
+  "name": "Mafa",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Magama",
+  "modified": "2025-03-01 17:34:59.530640",
+  "name": "Magama",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Magumeri",
+  "modified": "2025-03-01 17:34:59.536008",
+  "name": "Magumeri",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mai'Adua",
+  "modified": "2025-03-01 17:34:59.541322",
+  "name": "Mai'Adua",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Maiduguri",
+  "modified": "2025-03-01 17:34:59.545528",
+  "name": "Maiduguri",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Maigatari",
+  "modified": "2025-03-01 17:34:59.550046",
+  "name": "Maigatari",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Maiha",
+  "modified": "2025-03-01 17:34:59.554782",
+  "name": "Maiha",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Maiyama",
+  "modified": "2025-03-01 17:34:59.559326",
+  "name": "Maiyama",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Makarfi",
+  "modified": "2025-03-01 17:34:59.563682",
+  "name": "Makarfi",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Makoda",
+  "modified": "2025-03-01 17:34:59.568978",
+  "name": "Makoda",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Malam Madori",
+  "modified": "2025-03-01 17:34:59.573378",
+  "name": "Malam Madori",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Malumfashi",
+  "modified": "2025-03-01 17:34:59.578154",
+  "name": "Malumfashi",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mangu",
+  "modified": "2025-03-01 17:34:59.582907",
+  "name": "Mangu",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mani",
+  "modified": "2025-03-01 17:34:59.587398",
+  "name": "Mani",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Maradun",
+  "modified": "2025-03-01 17:34:59.591688",
+  "name": "Maradun",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mariga",
+  "modified": "2025-03-01 17:34:59.596310",
+  "name": "Mariga",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Makurdi",
+  "modified": "2025-03-01 17:34:59.601325",
+  "name": "Makurdi",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Marte",
+  "modified": "2025-03-01 17:34:59.606143",
+  "name": "Marte",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Maru",
+  "modified": "2025-03-01 17:34:59.610980",
+  "name": "Maru",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mashegu",
+  "modified": "2025-03-01 17:34:59.618564",
+  "name": "Mashegu",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mashi",
+  "modified": "2025-03-01 17:34:59.623390",
+  "name": "Mashi",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Matazu",
+  "modified": "2025-03-01 17:34:59.628258",
+  "name": "Matazu",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mayo Belwa",
+  "modified": "2025-03-01 17:34:59.633156",
+  "name": "Mayo Belwa",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mbaitoli",
+  "modified": "2025-03-01 17:34:59.638494",
+  "name": "Mbaitoli",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mbo",
+  "modified": "2025-03-01 17:34:59.643239",
+  "name": "Mbo",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Michika",
+  "modified": "2025-03-01 17:34:59.648967",
+  "name": "Michika",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Miga",
+  "modified": "2025-03-01 17:34:59.654832",
+  "name": "Miga",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mikang",
+  "modified": "2025-03-01 17:34:59.659768",
+  "name": "Mikang",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Minjibir",
+  "modified": "2025-03-01 17:34:59.663773",
+  "name": "Minjibir",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Misau",
+  "modified": "2025-03-01 17:34:59.668268",
+  "name": "Misau",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Moba",
+  "modified": "2025-03-01 17:34:59.672723",
+  "name": "Moba",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mobbar",
+  "modified": "2025-03-01 17:34:59.677433",
+  "name": "Mobbar",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mubi North",
+  "modified": "2025-03-01 17:34:59.682458",
+  "name": "Mubi North",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mubi South",
+  "modified": "2025-03-01 17:34:59.688404",
+  "name": "Mubi South",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mokwa",
+  "modified": "2025-03-01 17:34:59.693303",
+  "name": "Mokwa",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Monguno",
+  "modified": "2025-03-01 17:34:59.698086",
+  "name": "Monguno",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mopa Muro",
+  "modified": "2025-03-01 17:34:59.703733",
+  "name": "Mopa Muro",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Moro",
+  "modified": "2025-03-01 17:34:59.708620",
+  "name": "Moro",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Moya",
+  "modified": "2025-03-01 17:34:59.713186",
+  "name": "Moya",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mkpat-Enin",
+  "modified": "2025-03-01 17:34:59.718474",
+  "name": "Mkpat-Enin",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Municipal Area Council",
+  "modified": "2025-03-01 17:34:59.723987",
+  "name": "Municipal Area Council",
+  "state": "FCT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Musawa",
+  "modified": "2025-03-01 17:34:59.729569",
+  "name": "Musawa",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Mushin",
+  "modified": "2025-03-01 17:34:59.734294",
+  "name": "Mushin",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nafada",
+  "modified": "2025-03-01 17:34:59.739201",
+  "name": "Nafada",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nangere",
+  "modified": "2025-03-01 17:34:59.743567",
+  "name": "Nangere",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nasarawa",
+  "modified": "2025-03-01 17:34:59.748180",
+  "name": "Nasarawa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nasarawa Egon",
+  "modified": "2025-03-01 17:34:59.756806",
+  "name": "Nasarawa Egon",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ndokwa East",
+  "modified": "2025-03-01 17:34:59.761599",
+  "name": "Ndokwa East",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ndokwa West",
+  "modified": "2025-03-01 17:34:59.766389",
+  "name": "Ndokwa West",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nembe",
+  "modified": "2025-03-01 17:34:59.771171",
+  "name": "Nembe",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ngala",
+  "modified": "2025-03-01 17:34:59.776280",
+  "name": "Ngala",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nganzai",
+  "modified": "2025-03-01 17:34:59.781135",
+  "name": "Nganzai",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ngaski",
+  "modified": "2025-03-01 17:34:59.785812",
+  "name": "Ngaski",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ngor Okpala",
+  "modified": "2025-03-01 17:34:59.790237",
+  "name": "Ngor Okpala",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nguru",
+  "modified": "2025-03-01 17:34:59.794967",
+  "name": "Nguru",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ningi",
+  "modified": "2025-03-01 17:34:59.799339",
+  "name": "Ningi",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Njaba",
+  "modified": "2025-03-01 17:34:59.803759",
+  "name": "Njaba",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Njikoka",
+  "modified": "2025-03-01 17:34:59.808004",
+  "name": "Njikoka",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nkanu East",
+  "modified": "2025-03-01 17:34:59.812509",
+  "name": "Nkanu East",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nkanu West",
+  "modified": "2025-03-01 17:34:59.833218",
+  "name": "Nkanu West",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nkwerre",
+  "modified": "2025-03-01 17:34:59.838469",
+  "name": "Nkwerre",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nnewi North",
+  "modified": "2025-03-01 17:34:59.842972",
+  "name": "Nnewi North",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nnewi South",
+  "modified": "2025-03-01 17:34:59.847482",
+  "name": "Nnewi South",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nsit-Atai",
+  "modified": "2025-03-01 17:34:59.852232",
+  "name": "Nsit-Atai",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nsit-Ibom",
+  "modified": "2025-03-01 17:34:59.857129",
+  "name": "Nsit-Ibom",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nsit-Ubium",
+  "modified": "2025-03-01 17:34:59.862330",
+  "name": "Nsit-Ubium",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nsukka",
+  "modified": "2025-03-01 17:34:59.867223",
+  "name": "Nsukka",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Numan",
+  "modified": "2025-03-01 17:34:59.872582",
+  "name": "Numan",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nwangele",
+  "modified": "2025-03-01 17:34:59.877363",
+  "name": "Nwangele",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obafemi Owode",
+  "modified": "2025-03-01 17:34:59.881958",
+  "name": "Obafemi Owode",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obanliku",
+  "modified": "2025-03-01 17:34:59.887358",
+  "name": "Obanliku",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obi",
+  "modified": "2025-03-01 17:34:59.892092",
+  "name": "Obi",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obi Ngwa",
+  "modified": "2025-03-01 17:34:59.901133",
+  "name": "Obi Ngwa",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obio/Akpor",
+  "modified": "2025-03-01 17:34:59.906496",
+  "name": "Obio/Akpor",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obokun",
+  "modified": "2025-03-01 17:34:59.911462",
+  "name": "Obokun",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obot Akara",
+  "modified": "2025-03-01 17:34:59.916589",
+  "name": "Obot Akara",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obowo",
+  "modified": "2025-03-01 17:34:59.921830",
+  "name": "Obowo",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obubra",
+  "modified": "2025-03-01 17:34:59.927053",
+  "name": "Obubra",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obudu",
+  "modified": "2025-03-01 17:34:59.931642",
+  "name": "Obudu",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Odeda",
+  "modified": "2025-03-01 17:34:59.937560",
+  "name": "Odeda",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Odigbo",
+  "modified": "2025-03-01 17:34:59.943110",
+  "name": "Odigbo",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Odogbolu",
+  "modified": "2025-03-01 17:34:59.948097",
+  "name": "Odogbolu",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Odo Otin",
+  "modified": "2025-03-01 17:34:59.953951",
+  "name": "Odo Otin",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Odukpani",
+  "modified": "2025-03-01 17:34:59.958337",
+  "name": "Odukpani",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Offa",
+  "modified": "2025-03-01 17:34:59.962790",
+  "name": "Offa",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ofu",
+  "modified": "2025-03-01 17:34:59.967216",
+  "name": "Ofu",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogba/Egbema/Ndoni",
+  "modified": "2025-03-01 17:34:59.971831",
+  "name": "Ogba/Egbema/Ndoni",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogbadibo",
+  "modified": "2025-03-01 17:34:59.976444",
+  "name": "Ogbadibo",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogbaru",
+  "modified": "2025-03-01 17:34:59.980276",
+  "name": "Ogbaru",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogbia",
+  "modified": "2025-03-01 17:34:59.985402",
+  "name": "Ogbia",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogbomosho North",
+  "modified": "2025-03-01 17:34:59.989602",
+  "name": "Ogbomosho North",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogbomosho South",
+  "modified": "2025-03-01 17:34:59.994056",
+  "name": "Ogbomosho South",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogu/Bolo",
+  "modified": "2025-03-01 17:34:59.997799",
+  "name": "Ogu/Bolo",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogoja",
+  "modified": "2025-03-01 17:35:00.004638",
+  "name": "Ogoja",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogo Oluwa",
+  "modified": "2025-03-01 17:35:00.022079",
+  "name": "Ogo Oluwa",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogori/Magongo",
+  "modified": "2025-03-01 17:35:00.026818",
+  "name": "Ogori/Magongo",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ogun Waterside",
+  "modified": "2025-03-01 17:35:00.031007",
+  "name": "Ogun Waterside",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oguta",
+  "modified": "2025-03-01 17:35:00.039321",
+  "name": "Oguta",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ohafia",
+  "modified": "2025-03-01 17:35:00.046420",
+  "name": "Ohafia",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ohaji/Egbema",
+  "modified": "2025-03-01 17:35:00.055009",
+  "name": "Ohaji/Egbema",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ohaozara",
+  "modified": "2025-03-01 17:35:00.059626",
+  "name": "Ohaozara",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ohaukwu",
+  "modified": "2025-03-01 17:35:00.063882",
+  "name": "Ohaukwu",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ohimini",
+  "modified": "2025-03-01 17:35:00.068784",
+  "name": "Ohimini",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Orhionmwon",
+  "modified": "2025-03-01 17:35:00.073648",
+  "name": "Orhionmwon",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oji River",
+  "modified": "2025-03-01 17:35:00.078625",
+  "name": "Oji River",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ojo",
+  "modified": "2025-03-01 17:35:00.083681",
+  "name": "Ojo",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oju",
+  "modified": "2025-03-01 17:35:00.088839",
+  "name": "Oju",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okehi",
+  "modified": "2025-03-01 17:35:00.093775",
+  "name": "Okehi",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okene",
+  "modified": "2025-03-01 17:35:00.097868",
+  "name": "Okene",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oke Ero",
+  "modified": "2025-03-01 17:35:00.103288",
+  "name": "Oke Ero",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okigwe",
+  "modified": "2025-03-01 17:35:00.107937",
+  "name": "Okigwe",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okitipupa",
+  "modified": "2025-03-01 17:35:00.112400",
+  "name": "Okitipupa",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okobo",
+  "modified": "2025-03-01 17:35:00.119011",
+  "name": "Okobo",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okpe",
+  "modified": "2025-03-01 17:35:00.123847",
+  "name": "Okpe",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okrika",
+  "modified": "2025-03-01 17:35:00.128270",
+  "name": "Okrika",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Olamaboro",
+  "modified": "2025-03-01 17:35:00.136535",
+  "name": "Olamaboro",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ola Oluwa",
+  "modified": "2025-03-01 17:35:00.141340",
+  "name": "Ola Oluwa",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Olorunda",
+  "modified": "2025-03-01 17:35:00.146052",
+  "name": "Olorunda",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Olorunsogo",
+  "modified": "2025-03-01 17:35:00.152517",
+  "name": "Olorunsogo",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oluyole",
+  "modified": "2025-03-01 17:35:00.157692",
+  "name": "Oluyole",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Omala",
+  "modified": "2025-03-01 17:35:00.162772",
+  "name": "Omala",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Omuma",
+  "modified": "2025-03-01 17:35:00.167732",
+  "name": "Omuma",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ona Ara",
+  "modified": "2025-03-01 17:35:00.172660",
+  "name": "Ona Ara",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ondo East",
+  "modified": "2025-03-01 17:35:00.177294",
+  "name": "Ondo East",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ondo West",
+  "modified": "2025-03-01 17:35:00.182052",
+  "name": "Ondo West",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Onicha",
+  "modified": "2025-03-01 17:35:00.187013",
+  "name": "Onicha",
+  "state": "Ebonyi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Onitsha North",
+  "modified": "2025-03-01 17:35:00.191610",
+  "name": "Onitsha North",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Onitsha South",
+  "modified": "2025-03-01 17:35:00.196323",
+  "name": "Onitsha South",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Onna",
+  "modified": "2025-03-01 17:35:00.201336",
+  "name": "Onna",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Okpokwu",
+  "modified": "2025-03-01 17:35:00.206097",
+  "name": "Okpokwu",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Opobo/Nkoro",
+  "modified": "2025-03-01 17:35:00.210679",
+  "name": "Opobo/Nkoro",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oredo",
+  "modified": "2025-03-01 17:35:00.215019",
+  "name": "Oredo",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Orelope",
+  "modified": "2025-03-01 17:35:00.220628",
+  "name": "Orelope",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oriade",
+  "modified": "2025-03-01 17:35:00.225288",
+  "name": "Oriade",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ori Ire",
+  "modified": "2025-03-01 17:35:00.230304",
+  "name": "Ori Ire",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Orlu",
+  "modified": "2025-03-01 17:35:00.235299",
+  "name": "Orlu",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Orolu",
+  "modified": "2025-03-01 17:35:00.239639",
+  "name": "Orolu",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oron",
+  "modified": "2025-03-01 17:35:00.244173",
+  "name": "Oron",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Orsu",
+  "modified": "2025-03-01 17:35:00.248764",
+  "name": "Orsu",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oru East",
+  "modified": "2025-03-01 17:35:00.253605",
+  "name": "Oru East",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oruk Anam",
+  "modified": "2025-03-01 17:35:00.257985",
+  "name": "Oruk Anam",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Orumba North",
+  "modified": "2025-03-01 17:35:00.262725",
+  "name": "Orumba North",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Orumba South",
+  "modified": "2025-03-01 17:35:00.267649",
+  "name": "Orumba South",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oru West",
+  "modified": "2025-03-01 17:35:00.272214",
+  "name": "Oru West",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ose",
+  "modified": "2025-03-01 17:35:00.276569",
+  "name": "Ose",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oshimili North",
+  "modified": "2025-03-01 17:35:00.281050",
+  "name": "Oshimili North",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oshimili South",
+  "modified": "2025-03-01 17:35:00.286704",
+  "name": "Oshimili South",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oshodi-Isolo",
+  "modified": "2025-03-01 17:35:00.291001",
+  "name": "Oshodi-Isolo",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Osisioma",
+  "modified": "2025-03-01 17:35:00.296014",
+  "name": "Osisioma",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Osogbo",
+  "modified": "2025-03-01 17:35:00.301075",
+  "name": "Osogbo",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oturkpo",
+  "modified": "2025-03-01 17:35:00.305934",
+  "name": "Oturkpo",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ovia North-East",
+  "modified": "2025-03-01 17:35:00.310964",
+  "name": "Ovia North-East",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ovia South-West",
+  "modified": "2025-03-01 17:35:00.315758",
+  "name": "Ovia South-West",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Owan East",
+  "modified": "2025-03-01 17:35:00.320561",
+  "name": "Owan East",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Owan West",
+  "modified": "2025-03-01 17:35:00.325398",
+  "name": "Owan West",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Owerri Municipal",
+  "modified": "2025-03-01 17:35:00.330262",
+  "name": "Owerri Municipal",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Owerri North",
+  "modified": "2025-03-01 17:35:00.335791",
+  "name": "Owerri North",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Owerri West",
+  "modified": "2025-03-01 17:35:00.340814",
+  "name": "Owerri West",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Owo",
+  "modified": "2025-03-01 17:35:00.345812",
+  "name": "Owo",
+  "state": "Ondo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oye",
+  "modified": "2025-03-01 17:35:00.351579",
+  "name": "Oye",
+  "state": "Ekiti"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oyi",
+  "modified": "2025-03-01 17:35:00.356539",
+  "name": "Oyi",
+  "state": "Anambra"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oyigbo",
+  "modified": "2025-03-01 17:35:00.361422",
+  "name": "Oyigbo",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oyo",
+  "modified": "2025-03-01 17:35:00.366360",
+  "name": "Oyo",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oyo East",
+  "modified": "2025-03-01 17:35:00.371557",
+  "name": "Oyo East",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Oyun",
+  "modified": "2025-03-01 17:35:00.376421",
+  "name": "Oyun",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Paikoro",
+  "modified": "2025-03-01 17:35:00.381487",
+  "name": "Paikoro",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Pankshin",
+  "modified": "2025-03-01 17:35:00.386522",
+  "name": "Pankshin",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Patani",
+  "modified": "2025-03-01 17:35:00.391248",
+  "name": "Patani",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Pategi",
+  "modified": "2025-03-01 17:35:00.396087",
+  "name": "Pategi",
+  "state": "Kwara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Port Harcourt",
+  "modified": "2025-03-01 17:35:00.401338",
+  "name": "Port Harcourt",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Potiskum",
+  "modified": "2025-03-01 17:35:00.406398",
+  "name": "Potiskum",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Qua'an Pan",
+  "modified": "2025-03-01 17:35:00.411657",
+  "name": "Qua'an Pan",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Rabah",
+  "modified": "2025-03-01 17:35:00.416645",
+  "name": "Rabah",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Rafi",
+  "modified": "2025-03-01 17:35:00.421936",
+  "name": "Rafi",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Rano",
+  "modified": "2025-03-01 17:35:00.427411",
+  "name": "Rano",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Remo North",
+  "modified": "2025-03-01 17:35:00.433071",
+  "name": "Remo North",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Rijau",
+  "modified": "2025-03-01 17:35:00.438612",
+  "name": "Rijau",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Rimi",
+  "modified": "2025-03-01 17:35:00.443772",
+  "name": "Rimi",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Rimin Gado",
+  "modified": "2025-03-01 17:35:00.448831",
+  "name": "Rimin Gado",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ringim",
+  "modified": "2025-03-01 17:35:00.454629",
+  "name": "Ringim",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Riyom",
+  "modified": "2025-03-01 17:35:00.459685",
+  "name": "Riyom",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Rogo",
+  "modified": "2025-03-01 17:35:00.464790",
+  "name": "Rogo",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Roni",
+  "modified": "2025-03-01 17:35:00.469899",
+  "name": "Roni",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sabon Birni",
+  "modified": "2025-03-01 17:35:00.474852",
+  "name": "Sabon Birni",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sabon Gari",
+  "modified": "2025-03-01 17:35:00.480226",
+  "name": "Sabon Gari",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sabuwa",
+  "modified": "2025-03-01 17:35:00.486521",
+  "name": "Sabuwa",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Safana",
+  "modified": "2025-03-01 17:35:00.491942",
+  "name": "Safana",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sagbama",
+  "modified": "2025-03-01 17:35:00.497484",
+  "name": "Sagbama",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sakaba",
+  "modified": "2025-03-01 17:35:00.503591",
+  "name": "Sakaba",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Saki East",
+  "modified": "2025-03-01 17:35:00.510160",
+  "name": "Saki East",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Saki West",
+  "modified": "2025-03-01 17:35:00.515352",
+  "name": "Saki West",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sandamu",
+  "modified": "2025-03-01 17:35:00.522262",
+  "name": "Sandamu",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sanga",
+  "modified": "2025-03-01 17:35:00.527733",
+  "name": "Sanga",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sapele",
+  "modified": "2025-03-01 17:35:00.532851",
+  "name": "Sapele",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sardauna",
+  "modified": "2025-03-01 17:35:00.538378",
+  "name": "Sardauna",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shagamu",
+  "modified": "2025-03-01 17:35:00.543451",
+  "name": "Shagamu",
+  "state": "Ogun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shagari",
+  "modified": "2025-03-01 17:35:00.548770",
+  "name": "Shagari",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shanga",
+  "modified": "2025-03-01 17:35:00.554800",
+  "name": "Shanga",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shani",
+  "modified": "2025-03-01 17:35:00.560602",
+  "name": "Shani",
+  "state": "Borno"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shanono",
+  "modified": "2025-03-01 17:35:00.566927",
+  "name": "Shanono",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shelleng",
+  "modified": "2025-03-01 17:35:00.573037",
+  "name": "Shelleng",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shendam",
+  "modified": "2025-03-01 17:35:00.578973",
+  "name": "Shendam",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shinkafi",
+  "modified": "2025-03-01 17:35:00.585113",
+  "name": "Shinkafi",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shira",
+  "modified": "2025-03-01 17:35:00.590857",
+  "name": "Shira",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shiroro",
+  "modified": "2025-03-01 17:35:00.596545",
+  "name": "Shiroro",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shongom",
+  "modified": "2025-03-01 17:35:00.602439",
+  "name": "Shongom",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Shomolu",
+  "modified": "2025-03-01 17:35:00.608056",
+  "name": "Shomolu",
+  "state": "Lagos"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Silame",
+  "modified": "2025-03-01 17:35:00.615084",
+  "name": "Silame",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Soba",
+  "modified": "2025-03-01 17:35:00.621182",
+  "name": "Soba",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sokoto North",
+  "modified": "2025-03-01 17:35:00.627340",
+  "name": "Sokoto North",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sokoto South",
+  "modified": "2025-03-01 17:35:00.632729",
+  "name": "Sokoto South",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Song",
+  "modified": "2025-03-01 17:35:00.638761",
+  "name": "Song",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Southern Ijaw",
+  "modified": "2025-03-01 17:35:00.644643",
+  "name": "Southern Ijaw",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Suleja",
+  "modified": "2025-03-01 17:35:00.650343",
+  "name": "Suleja",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sule Tankarkar",
+  "modified": "2025-03-01 17:35:00.656462",
+  "name": "Sule Tankarkar",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Sumaila",
+  "modified": "2025-03-01 17:35:00.663194",
+  "name": "Sumaila",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Suru",
+  "modified": "2025-03-01 17:35:00.669826",
+  "name": "Suru",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Surulere",
+  "modified": "2025-03-01 17:35:00.675425",
+  "name": "Surulere",
+  "state": "Oyo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tafa",
+  "modified": "2025-03-01 17:35:00.686391",
+  "name": "Tafa",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tafawa Balewa",
+  "modified": "2025-03-01 17:35:00.692232",
+  "name": "Tafawa Balewa",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tai",
+  "modified": "2025-03-01 17:35:00.697847",
+  "name": "Tai",
+  "state": "Rivers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Takai",
+  "modified": "2025-03-01 17:35:00.703912",
+  "name": "Takai",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Takum",
+  "modified": "2025-03-01 17:35:00.709884",
+  "name": "Takum",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Talata Mafara",
+  "modified": "2025-03-01 17:35:00.715580",
+  "name": "Talata Mafara",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tambuwal",
+  "modified": "2025-03-01 17:35:00.722830",
+  "name": "Tambuwal",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tangaza",
+  "modified": "2025-03-01 17:35:00.729496",
+  "name": "Tangaza",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tarauni",
+  "modified": "2025-03-01 17:35:00.736374",
+  "name": "Tarauni",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tarka",
+  "modified": "2025-03-01 17:35:00.742480",
+  "name": "Tarka",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tarmuwa",
+  "modified": "2025-03-01 17:35:00.748625",
+  "name": "Tarmuwa",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Taura",
+  "modified": "2025-03-01 17:35:00.755592",
+  "name": "Taura",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Toungo",
+  "modified": "2025-03-01 17:35:00.762013",
+  "name": "Toungo",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tofa",
+  "modified": "2025-03-01 17:35:00.768336",
+  "name": "Tofa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Toro",
+  "modified": "2025-03-01 17:35:00.774623",
+  "name": "Toro",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Toto",
+  "modified": "2025-03-01 17:35:00.780929",
+  "name": "Toto",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Chafe",
+  "modified": "2025-03-01 17:35:00.788639",
+  "name": "Chafe",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tsanyawa",
+  "modified": "2025-03-01 17:35:00.795350",
+  "name": "Tsanyawa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tudun Wada",
+  "modified": "2025-03-01 17:35:00.801354",
+  "name": "Tudun Wada",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Tureta",
+  "modified": "2025-03-01 17:35:00.807069",
+  "name": "Tureta",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Udenu",
+  "modified": "2025-03-01 17:35:00.812935",
+  "name": "Udenu",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Udi",
+  "modified": "2025-03-01 17:35:00.819094",
+  "name": "Udi",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Udu",
+  "modified": "2025-03-01 17:35:00.824953",
+  "name": "Udu",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Udung-Uko",
+  "modified": "2025-03-01 17:35:00.830778",
+  "name": "Udung-Uko",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ughelli North",
+  "modified": "2025-03-01 17:35:00.836633",
+  "name": "Ughelli North",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ughelli South",
+  "modified": "2025-03-01 17:35:00.842230",
+  "name": "Ughelli South",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ugwunagbo",
+  "modified": "2025-03-01 17:35:00.847883",
+  "name": "Ugwunagbo",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Uhunmwonde",
+  "modified": "2025-03-01 17:35:00.853691",
+  "name": "Uhunmwonde",
+  "state": "Edo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ukanafun",
+  "modified": "2025-03-01 17:35:00.859608",
+  "name": "Ukanafun",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ukum",
+  "modified": "2025-03-01 17:35:00.865028",
+  "name": "Ukum",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ukwa East",
+  "modified": "2025-03-01 17:35:00.871362",
+  "name": "Ukwa East",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ukwa West",
+  "modified": "2025-03-01 17:35:00.877262",
+  "name": "Ukwa West",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ukwuani",
+  "modified": "2025-03-01 17:35:00.882858",
+  "name": "Ukwuani",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Umuahia North",
+  "modified": "2025-03-01 17:35:00.889171",
+  "name": "Umuahia North",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Umuahia South",
+  "modified": "2025-03-01 17:35:00.895580",
+  "name": "Umuahia South",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Umu Nneochi",
+  "modified": "2025-03-01 17:35:00.902162",
+  "name": "Umu Nneochi",
+  "state": "Abia"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ungogo",
+  "modified": "2025-03-01 17:35:00.908477",
+  "name": "Ungogo",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Unuimo",
+  "modified": "2025-03-01 17:35:00.914688",
+  "name": "Unuimo",
+  "state": "Imo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Uruan",
+  "modified": "2025-03-01 17:35:00.921384",
+  "name": "Uruan",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Urue-Offong/Oruko",
+  "modified": "2025-03-01 17:35:00.927660",
+  "name": "Urue-Offong/Oruko",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ushongo",
+  "modified": "2025-03-01 17:35:00.933949",
+  "name": "Ushongo",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ussa",
+  "modified": "2025-03-01 17:35:00.940657",
+  "name": "Ussa",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Uvwie",
+  "modified": "2025-03-01 17:35:00.946871",
+  "name": "Uvwie",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Uyo",
+  "modified": "2025-03-01 17:35:00.952938",
+  "name": "Uyo",
+  "state": "Akwa Ibom"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Uzo Uwani",
+  "modified": "2025-03-01 17:35:00.959250",
+  "name": "Uzo Uwani",
+  "state": "Enugu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Vandeikya",
+  "modified": "2025-03-01 17:35:00.967582",
+  "name": "Vandeikya",
+  "state": "Benue"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wamako",
+  "modified": "2025-03-01 17:35:00.973045",
+  "name": "Wamako",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wamba",
+  "modified": "2025-03-01 17:35:00.978770",
+  "name": "Wamba",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Warawa",
+  "modified": "2025-03-01 17:35:00.983892",
+  "name": "Warawa",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Warji",
+  "modified": "2025-03-01 17:35:00.988850",
+  "name": "Warji",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Warri North",
+  "modified": "2025-03-01 17:35:00.993643",
+  "name": "Warri North",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Warri South",
+  "modified": "2025-03-01 17:35:00.998301",
+  "name": "Warri South",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Warri South West",
+  "modified": "2025-03-01 17:35:01.003311",
+  "name": "Warri South West",
+  "state": "Delta"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wasagu/Danko",
+  "modified": "2025-03-01 17:35:01.007880",
+  "name": "Wasagu/Danko",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wase",
+  "modified": "2025-03-01 17:35:01.012909",
+  "name": "Wase",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wudil",
+  "modified": "2025-03-01 17:35:01.018195",
+  "name": "Wudil",
+  "state": "Kano"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wukari",
+  "modified": "2025-03-01 17:35:01.023239",
+  "name": "Wukari",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wurno",
+  "modified": "2025-03-01 17:35:01.028048",
+  "name": "Wurno",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Wushishi",
+  "modified": "2025-03-01 17:35:01.032690",
+  "name": "Wushishi",
+  "state": "Niger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yabo",
+  "modified": "2025-03-01 17:35:01.037602",
+  "name": "Yabo",
+  "state": "Sokoto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yagba East",
+  "modified": "2025-03-01 17:35:01.042293",
+  "name": "Yagba East",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yagba West",
+  "modified": "2025-03-01 17:35:01.047273",
+  "name": "Yagba West",
+  "state": "Kogi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yakuur",
+  "modified": "2025-03-01 17:35:01.052493",
+  "name": "Yakuur",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yala",
+  "modified": "2025-03-01 17:35:01.057376",
+  "name": "Yala",
+  "state": "Cross River"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yamaltu/Deba",
+  "modified": "2025-03-01 17:35:01.062195",
+  "name": "Yamaltu/Deba",
+  "state": "Gombe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yankwashi",
+  "modified": "2025-03-01 17:35:01.067081",
+  "name": "Yankwashi",
+  "state": "Jigawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yauri",
+  "modified": "2025-03-01 17:35:01.072034",
+  "name": "Yauri",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yenagoa",
+  "modified": "2025-03-01 17:35:01.076475",
+  "name": "Yenagoa",
+  "state": "Bayelsa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yola North",
+  "modified": "2025-03-01 17:35:01.080936",
+  "name": "Yola North",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yola South",
+  "modified": "2025-03-01 17:35:01.086534",
+  "name": "Yola South",
+  "state": "Adamawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yorro",
+  "modified": "2025-03-01 17:35:01.091047",
+  "name": "Yorro",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yunusari",
+  "modified": "2025-03-01 17:35:01.096034",
+  "name": "Yunusari",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Yusufari",
+  "modified": "2025-03-01 17:35:01.101488",
+  "name": "Yusufari",
+  "state": "Yobe"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Zaki",
+  "modified": "2025-03-01 17:35:01.106615",
+  "name": "Zaki",
+  "state": "Bauchi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Zango",
+  "modified": "2025-03-01 17:35:01.111419",
+  "name": "Zango",
+  "state": "Katsina"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Zangon Kataf",
+  "modified": "2025-03-01 17:35:01.116453",
+  "name": "Zangon Kataf",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Zaria",
+  "modified": "2025-03-01 17:35:01.121818",
+  "name": "Zaria",
+  "state": "Kaduna"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Zing",
+  "modified": "2025-03-01 17:35:01.126759",
+  "name": "Zing",
+  "state": "Taraba"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Zurmi",
+  "modified": "2025-03-01 17:35:01.131553",
+  "name": "Zurmi",
+  "state": "Zamfara"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Zuru",
+  "modified": "2025-03-01 17:35:01.136214",
+  "name": "Zuru",
+  "state": "Kebbi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Bassa-Plateau",
+  "modified": "2025-03-01 17:36:44.854010",
+  "name": "Bassa-Plateau",
+  "state": "Plateau"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Ifelodun-Osun",
+  "modified": "2025-03-01 17:37:24.780216",
+  "name": "Ifelodun-Osun",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Irepodun-Osun",
+  "modified": "2025-03-01 17:37:48.014894",
+  "name": "Irepodun-Osun",
+  "state": "Osun"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Nassarawa",
+  "modified": "2025-03-01 17:38:13.734681",
+  "name": "Nassarawa",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Obi-Nasarawa",
+  "modified": "2025-03-01 17:38:31.494050",
+  "name": "Obi-Nasarawa",
+  "state": "Nasarawa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Local Government",
+  "lga": "Surulere-Lagos",
+  "modified": "2025-03-01 17:38:52.536275",
+  "name": "Surulere-Lagos",
+  "state": "Lagos"
+ }
+]

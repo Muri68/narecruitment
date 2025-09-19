@@ -1,0 +1,267 @@
+html, body{
+    height: 100%;
+}
+.bg-red{
+  background-color: rgb(180, 0, -0) !important;
+}
+.text-red{
+  color: rgb(180, 0, -0) !important;
+}
+.navbar-light{
+  display: none;
+}
+.page-content-wrapper{
+  padding-left: 0;
+  padding-right: 0;
+}
+.my-4{
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.web-footer{
+  display: none;
+}
+.nav-link{
+    color: #000;
+    font-size: 1rem;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+}
+.nav-link:hover{
+    color: rgb(180, 0, -0);;
+}
+.logo-text {
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem; /* Adjust size */
+    font-weight: 800; /* Semi-bold for emphasis */
+    color: rgb(39, 42, 45); /* Custom brand color */
+}
+
+.requirements-page {
+    /* background: #0a0c1b; */
+    color: #fff;
+    overflow-x: hidden;
+}
+
+.hero-banner {
+    height: 50vh;
+    background: url("/assets/armyrecruitment/image/rri-banner.jpg") no-repeat center center/cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    text-align: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.banner-content {
+    position: relative;
+    z-index: 2;
+}
+
+.main-container {
+    background: #fff;
+    padding: 50px 0;
+    position: relative;
+}
+
+.requirements-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.section-block {
+    margin-bottom: 40px;
+    padding: 30px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.military-stripe {
+    width: 5px;
+    height: 40px;
+    background: #ff4444;
+    margin-right: 15px;
+}
+
+.timeline-item {
+    position: relative;
+    padding: 20px 0 20px 30px;
+    border-left: 2px solid rgba(255, 68, 68, 0.3);
+}
+
+.timeline-dot {
+    width: 15px;
+    height: 15px;
+    background: #ff4444;
+    border-radius: 50%;
+    position: absolute;
+    left: -8px;
+    top: 28px;
+}
+
+.step-tag {
+    color: #ff4444;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.requirements-grid,
+.benefits-grid,
+.instructions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.requirement-card,
+.benefit-card,
+.instruction-card {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.requirement-card:hover,
+.benefit-card:hover,
+.instruction-card:hover {
+    transform: translateY(-5px);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.requirement-icon,
+.benefit-icon {
+    color: #ff4444;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.instruction-number {
+    background: #ff4444;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+#page-login > .page-content-wrapper > .container{
+    padding-left: 0;
+    padding-right: 0;
+}
+.page-content-wrapper > .container.my-4{
+    margin-top: 0 !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.need-help{
+    background-color: rgb(180, 0, -0); 
+  }
+  .bg-gradient-primary {
+    background: linear-gradient(135deg, #000000 0%, #cc0000 100%) !important;
+    color: white !important;
+}
+
+.modal-backdrop.show {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.89 !important;
+}
+
+.modal-backdrop {
+  transition: background-color 0.3s ease !important;
+}
+.ql-editor {
+    color: #fff !important;
+}
+
+@media (max-width: 768px) {
+    .requirements-wrapper {
+        padding: 0 15px;
+    }
+    .logo-text {
+        font-size: 1.5rem;
+      }
+      .nav-link{
+        font-size: 0.8rem;
+      }
+    
+    .section-block {
+        padding: 20px;
+    }
+    .container-md, .container-sm, .container {
+        max-width: 100%;
+    }
+}
+
+.cta-container {
+    text-align: center;
+    margin: 60px 0 20px;
+}
+
+.cta-button {
+    display: inline-flex;
+    align-items: center;
+    padding: 15px 40px;
+    background: linear-gradient(45deg, rgb(180,0,-0), rgb(180,0,-0));
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(255, 68, 68, 0.4);
+}
+
+.cta-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(255, 68, 68, 0.5);
+    color: white;
+    text-decoration: none;
+}
+
+.button-text {
+    margin-right: 10px;
+}
+
+.button-icon {
+    width: 30px;
+    height: 30px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media (min-width: 576px) {
+    .container-sm, .container {
+        max-width: 100%;
+    }
+}

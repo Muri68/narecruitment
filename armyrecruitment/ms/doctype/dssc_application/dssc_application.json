@@ -1,0 +1,594 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:DSSC-{YYYY}-5{######}",
+ "creation": "2024-12-05 14:19:11.786491",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "application_course",
+  "applicant_nin",
+  "date_of_birth",
+  "passport_image",
+  "column_break_nvns",
+  "preffered_corps",
+  "discipline",
+  "surname",
+  "first_name",
+  "other_names",
+  "tab_break_qsjm",
+  "phone_number",
+  "email",
+  "nationality",
+  "state",
+  "local_government",
+  "place_of_birth",
+  "contact_address",
+  "permanent_address",
+  "residential_state",
+  "column_break_rmsq",
+  "gender",
+  "age",
+  "marital_status",
+  "have_children",
+  "number_of_children",
+  "religion",
+  "height_cm",
+  "blood_group",
+  "tribal_marks",
+  "education_tab",
+  "type_of_first_degree",
+  "name_of_higher_institution",
+  "institution_country",
+  "first_degree_course",
+  "bsc_grade",
+  "hnd_grade",
+  "date_graduated",
+  "nysc",
+  "date_finished_nysc",
+  "column_break_aqnh",
+  "employed",
+  "type_of_employment",
+  "employer_name",
+  "employer_address",
+  "employer_phone_number",
+  "serving_afn",
+  "service_number",
+  "rank",
+  "current_unit",
+  "unit_contact_person",
+  "unit_contact_person_phone",
+  "nok_tab",
+  "nok_name",
+  "nok_address",
+  "nok_phone_number",
+  "nok_relationship",
+  "column_break_dadb",
+  "referee_name",
+  "referee_address",
+  "referee_phone_number",
+  "referee_email",
+  "referee_relationship",
+  "documents_tab",
+  "primary_school_certificate",
+  "secondary_school_certificate",
+  "first_degree_certificate",
+  "nysc_certificate",
+  "column_break_oidb",
+  "birth_certificate",
+  "state_of_origin_certificate",
+  "others_tab",
+  "preferred_exam_centre",
+  "professional_body",
+  "other_post_graduate_qualification",
+  "declaration",
+  "admin_tab",
+  "recruitment_status"
+ ],
+ "fields": [
+  {
+   "fieldname": "preffered_corps",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Preffered Corps",
+   "options": "DSSC Preferred Corps",
+   "reqd": 1
+  },
+  {
+   "fieldname": "discipline",
+   "fieldtype": "Data",
+   "label": "Discipline"
+  },
+  {
+   "default": "DSSC 29/2025",
+   "fieldname": "application_course",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Application Course",
+   "options": "DSSC SSC Application Course",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "applicant_nin",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Applicant NIN",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "date_of_birth",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Date Of Birth",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_nvns",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "passport_image",
+   "fieldtype": "Code",
+   "label": "Passport Image"
+  },
+  {
+   "fieldname": "surname",
+   "fieldtype": "Data",
+   "label": "Surname",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "label": "First Name",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "other_names",
+   "fieldtype": "Data",
+   "label": "Other Names",
+   "read_only": 1
+  },
+  {
+   "fieldname": "tab_break_qsjm",
+   "fieldtype": "Tab Break",
+   "label": "Bio Data"
+  },
+  {
+   "fieldname": "state",
+   "fieldtype": "Link",
+   "label": "State",
+   "options": "State",
+   "reqd": 1
+  },
+  {
+   "fieldname": "local_government",
+   "fieldtype": "Link",
+   "label": "Local Government",
+   "options": "Local Government",
+   "reqd": 1
+  },
+  {
+   "fieldname": "nationality",
+   "fieldtype": "Link",
+   "label": "Nationality",
+   "options": "Country"
+  },
+  {
+   "fieldname": "place_of_birth",
+   "fieldtype": "Link",
+   "label": "Place of Birth",
+   "options": "State"
+  },
+  {
+   "fieldname": "column_break_rmsq",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Select",
+   "label": "Gender",
+   "options": "Male\nFemale",
+   "reqd": 1
+  },
+  {
+   "fieldname": "marital_status",
+   "fieldtype": "Select",
+   "label": "Marital Status",
+   "options": "Single\nMarried\nWidowed\nSeparated\nDivorced"
+  },
+  {
+   "fieldname": "religion",
+   "fieldtype": "Select",
+   "label": "Religion",
+   "options": "Christianity\nIslam\nTraditional"
+  },
+  {
+   "fieldname": "height_cm",
+   "fieldtype": "Float",
+   "label": "Height (cm)",
+   "non_negative": 1,
+   "precision": "2"
+  },
+  {
+   "fieldname": "admin_tab",
+   "fieldtype": "Tab Break",
+   "label": "Admin"
+  },
+  {
+   "fieldname": "recruitment_status",
+   "fieldtype": "Select",
+   "label": "Recruitment Status",
+   "options": "Submitted\nShortlisted\nDisqualified"
+  },
+  {
+   "fieldname": "documents_tab",
+   "fieldtype": "Tab Break",
+   "label": "Documents"
+  },
+  {
+   "fieldname": "primary_school_certificate",
+   "fieldtype": "Attach",
+   "label": "Primary School Certificate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "secondary_school_certificate",
+   "fieldtype": "Attach",
+   "label": "Secondary School Certificate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "first_degree_certificate",
+   "fieldtype": "Attach",
+   "label": "First Degree Certificate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "nysc_certificate",
+   "fieldtype": "Attach",
+   "label": "NYSC Certificate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_oidb",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "birth_certificate",
+   "fieldtype": "Attach",
+   "label": "Birth Certificate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "state_of_origin_certificate",
+   "fieldtype": "Attach",
+   "label": "State of Origin Certificate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "education_tab",
+   "fieldtype": "Tab Break",
+   "label": "Education & Employment"
+  },
+  {
+   "fieldname": "type_of_first_degree",
+   "fieldtype": "Select",
+   "label": "Type of First Degree",
+   "options": "\nBachelor's Degree\nHND",
+   "reqd": 1
+  },
+  {
+   "description": "e.g Computer Science",
+   "fieldname": "first_degree_course",
+   "fieldtype": "Data",
+   "label": "First Degree Course",
+   "reqd": 1
+  },
+  {
+   "depends_on": "eval:doc.type_of_first_degree != 'HND'",
+   "fieldname": "bsc_grade",
+   "fieldtype": "Select",
+   "label": "Grade",
+   "mandatory_depends_on": "eval:doc.type_of_first_degree != 'HND'",
+   "options": "\nFirst Class\nSecond Class Upper\nSecond Class Lower\nThird Class"
+  },
+  {
+   "depends_on": "eval:doc.type_of_first_degree == 'HND'",
+   "fieldname": "hnd_grade",
+   "fieldtype": "Select",
+   "label": "Grade",
+   "mandatory_depends_on": "eval:doc.type_of_first_degree == 'HND'",
+   "options": "\nDistinction\nUpper Class\nLower Class\nPass"
+  },
+  {
+   "fieldname": "name_of_higher_institution",
+   "fieldtype": "Data",
+   "label": "Name of Institution",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_aqnh",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "employed",
+   "fieldtype": "Check",
+   "label": "Are you employed ?"
+  },
+  {
+   "depends_on": "eval:doc.employed == 1",
+   "fieldname": "employer_name",
+   "fieldtype": "Data",
+   "label": "Employer Name",
+   "mandatory_depends_on": "eval:doc.employed == 1"
+  },
+  {
+   "depends_on": "eval:doc.employed == 1",
+   "fieldname": "employer_address",
+   "fieldtype": "Data",
+   "label": "Employer Address",
+   "mandatory_depends_on": "eval:doc.employed == 1"
+  },
+  {
+   "depends_on": "eval:doc.employed == 1",
+   "fieldname": "employer_phone_number",
+   "fieldtype": "Data",
+   "label": "Employer Phone Number",
+   "mandatory_depends_on": "eval:doc.employed == 1"
+  },
+  {
+   "fieldname": "institution_country",
+   "fieldtype": "Link",
+   "label": "Institution Country",
+   "options": "Country",
+   "reqd": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "serving_afn",
+   "fieldtype": "Check",
+   "label": "Are you a serving personnel / Served in the Armed Forces of Nigeria ?"
+  },
+  {
+   "depends_on": "eval:doc.serving_afn == 1",
+   "fieldname": "service_number",
+   "fieldtype": "Data",
+   "label": "Service Number",
+   "mandatory_depends_on": "eval:doc.serving_afn == 1"
+  },
+  {
+   "depends_on": "eval:doc.serving_afn == 1",
+   "fieldname": "rank",
+   "fieldtype": "Data",
+   "label": "Rank",
+   "mandatory_depends_on": "eval:doc.serving_afn == 1"
+  },
+  {
+   "depends_on": "eval:doc.serving_afn == 1",
+   "fieldname": "current_unit",
+   "fieldtype": "Data",
+   "label": "Current Unit",
+   "mandatory_depends_on": "eval:doc.serving_afn == 1"
+  },
+  {
+   "depends_on": "eval:doc.serving_afn == 1",
+   "fieldname": "unit_contact_person",
+   "fieldtype": "Data",
+   "label": "Unit Contact Person",
+   "mandatory_depends_on": "eval:doc.serving_afn == 1"
+  },
+  {
+   "depends_on": "eval:doc.serving_afn == 1",
+   "fieldname": "unit_contact_person_phone",
+   "fieldtype": "Data",
+   "label": "Unit Contact Person phone",
+   "mandatory_depends_on": "eval:doc.serving_afn == 1"
+  },
+  {
+   "fieldname": "blood_group",
+   "fieldtype": "Select",
+   "label": "Blood Group",
+   "options": "\nA +\nA -\nB +\nB -\nAB +\nAB -\nO +\nO -"
+  },
+  {
+   "default": "0",
+   "depends_on": "eval:doc.have_children == 1",
+   "fieldname": "have_children",
+   "fieldtype": "Check",
+   "label": "Do you have children"
+  },
+  {
+   "fieldname": "number_of_children",
+   "fieldtype": "Int",
+   "label": "Number of Children"
+  },
+  {
+   "depends_on": "eval:doc.employed == 1",
+   "fieldname": "type_of_employment",
+   "fieldtype": "Select",
+   "label": "Type of Employment",
+   "mandatory_depends_on": "eval:doc.employed == 1",
+   "options": "Contract\nFull Time\nCivil Servant\nPublic Servant"
+  },
+  {
+   "fieldname": "phone_number",
+   "fieldtype": "Data",
+   "label": "Phone Number",
+   "reqd": 1
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email",
+   "read_only": 1,
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "contact_address",
+   "fieldtype": "Data",
+   "label": "Contact Address"
+  },
+  {
+   "fieldname": "permanent_address",
+   "fieldtype": "Data",
+   "label": "Permanent Address"
+  },
+  {
+   "fieldname": "residential_state",
+   "fieldtype": "Link",
+   "label": "Residential State",
+   "options": "State"
+  },
+  {
+   "default": "0",
+   "fieldname": "tribal_marks",
+   "fieldtype": "Check",
+   "label": "Do you have tribal marks ?"
+  },
+  {
+   "fieldname": "nok_tab",
+   "fieldtype": "Tab Break",
+   "label": "NOK & Referee"
+  },
+  {
+   "fieldname": "nok_name",
+   "fieldtype": "Data",
+   "label": "Nok Name"
+  },
+  {
+   "fieldname": "nok_address",
+   "fieldtype": "Data",
+   "label": "Nok Address"
+  },
+  {
+   "fieldname": "nok_phone_number",
+   "fieldtype": "Data",
+   "label": "Nok Phone Number"
+  },
+  {
+   "fieldname": "nok_relationship",
+   "fieldtype": "Select",
+   "label": "Nok Relationship",
+   "options": "\nBrother\nSister\nMother\nFather\nRelative\nGuardian"
+  },
+  {
+   "fieldname": "column_break_dadb",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "referee_name",
+   "fieldtype": "Data",
+   "label": "Referee Name"
+  },
+  {
+   "fieldname": "referee_address",
+   "fieldtype": "Data",
+   "label": "Referee Address"
+  },
+  {
+   "fieldname": "referee_phone_number",
+   "fieldtype": "Data",
+   "label": "Referee Phone Number"
+  },
+  {
+   "fieldname": "referee_email",
+   "fieldtype": "Data",
+   "label": "Referee Email"
+  },
+  {
+   "fieldname": "referee_relationship",
+   "fieldtype": "Select",
+   "label": "Referee Relationship",
+   "options": "\nBrother\nSister\nMother\nFather\nRelative\nGuardian"
+  },
+  {
+   "description": "Multiple bodies can be selected",
+   "fieldname": "professional_body",
+   "fieldtype": "Table MultiSelect",
+   "label": "Professional Body",
+   "options": "Professional Bodies Multi Select"
+  },
+  {
+   "fieldname": "others_tab",
+   "fieldtype": "Tab Break",
+   "label": "Others"
+  },
+  {
+   "fieldname": "other_post_graduate_qualification",
+   "fieldtype": "Table",
+   "label": "Other Post Graduate Qualification",
+   "options": "Post Graduate Qualifications"
+  },
+  {
+   "fieldname": "date_graduated",
+   "fieldtype": "Date",
+   "label": "Date Graduated",
+   "reqd": 1
+  },
+  {
+   "fieldname": "nysc",
+   "fieldtype": "Select",
+   "label": "NYSC",
+   "options": "Ongoing\nCompleted\nExempted",
+   "reqd": 1
+  },
+  {
+   "depends_on": "eval:doc.nysc != \"Ongoing\"",
+   "fieldname": "date_finished_nysc",
+   "fieldtype": "Date",
+   "label": "Date Finished NYSC",
+   "mandatory_depends_on": "eval:doc.nysc != \"Ongoing\""
+  },
+  {
+   "fieldname": "preferred_exam_centre",
+   "fieldtype": "Select",
+   "label": "Preferred Exam Centre",
+   "options": "North Centra (NC)\nSouth West (SW)\nNorth West (NW)\nSouth East (SE)\nNorth East (NE)\nSouth South (SS)",
+   "reqd": 1
+  },
+  {
+   "fieldname": "age",
+   "fieldtype": "Data",
+   "label": "Age",
+   "read_only": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "declaration",
+   "fieldtype": "Check",
+   "label": "Declaration"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-12-09 21:38:49.115743",
+ "modified_by": "Administrator",
+ "module": "MS",
+ "name": "DSSC Application",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

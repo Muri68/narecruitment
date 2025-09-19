@@ -1,0 +1,71 @@
+{
+ "charts": [
+  {
+   "chart_name": "Deport Chart",
+   "label": "Deport NA Chart"
+  }
+ ],
+ "content": "[{\"id\":\"V67KASBJpJ\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Depot NA</span>\",\"col\":12}},{\"id\":\"HvHeB7PadE\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"dJaaTdGvde\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Regular Recruit Intake\",\"col\":3}},{\"id\":\"18e64lF_hI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Recruits\",\"col\":3}},{\"id\":\"fb2HNM8iGC\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Recruits Sick Report\",\"col\":3}},{\"id\":\"mwX5WCdq_E\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Recruits Evaluation\",\"col\":3}},{\"id\":\"uy0TpE_yTZ\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"90uHdxOfi_\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Deport NA Chart\",\"col\":12}}]",
+ "creation": "2025-05-30 20:36:16.924299",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "both",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Depot NA",
+ "links": [],
+ "modified": "2025-05-30 21:50:04.821049",
+ "modified_by": "Administrator",
+ "module": "Depot NA",
+ "name": "Depot NA",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "sequence_id": 3.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Recruits",
+   "link_to": "Army Recruit",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Regular Recruit Intake",
+   "link_to": "Regular Recruit Intake",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Recruits Sick Report",
+   "link_to": "Recruit Sick Report",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Recruits Evaluation",
+   "link_to": "Recruit Dossier Entry",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Depot NA"
+}

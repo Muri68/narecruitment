@@ -1,0 +1,20 @@
+[
+ {
+  "active_application": null,
+  "active_rri": "89RRI",
+  "application_closed_description": null,
+  "application_end_instruction": null,
+  "banner_text": null,
+  "banner_type": "Announcement",
+  "docstatus": 0,
+  "doctype": "Recruitment Setting",
+  "home_header": "Application Ongoing",
+  "modified": "2025-03-04 11:34:27.868084",
+  "name": "Recruitment Setting",
+  "publish_file": null,
+  "publish_list": "No",
+  "publish_officers_list": "No",
+  "publish_shortlist_type": "None",
+  "show_banner": "False"
+ }
+]

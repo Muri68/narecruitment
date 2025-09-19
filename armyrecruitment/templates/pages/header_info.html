@@ -1,0 +1,18 @@
+<!-- Notice Section -->
+{% if show_banner == 'True' %}
+{% include "templates/pages/notice.html" %}
+{% endif %}
+
+<!-- Cookie Notice -->
+{% include "templates/pages/cookie.html" %}
+
+<!-- Help Modal -->
+{% include "templates/pages/support.html" %}
+
+<!-- Status Banner -->
+<div class="bg-dark text-white d-flex justify-content-between align-items-stretch px-4">
+  <div class="py-3">{{ home_header }} <i class="fa fa-bell" aria-hidden="true" style="color: red"></i></div>
+  <div class="need-help d-flex align-items-center px-4">
+    <button class="btn text-white" data-bs-toggle="modal" data-bs-target="#helpModal">Need Help <i class="fa fa-question-circle" aria-hidden="true"></i></button>
+  </div>
+</div>

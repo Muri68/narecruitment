@@ -1,0 +1,13 @@
+
+.hero-banner2 {
+    height: 50vh;
+    background: url("/assets/armyrecruitment/image/officers-banner.jpg") no-repeat center center/cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    text-align: center;
+}

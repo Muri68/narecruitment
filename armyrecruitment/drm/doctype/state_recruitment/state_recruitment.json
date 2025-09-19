@@ -1,0 +1,555 @@
+{
+ "actions": [],
+ "allow_events_in_timeline": 1,
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "field:application_no",
+ "creation": "2025-05-28 15:39:53.028243",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "arrival_section",
+  "application_no",
+  "surname",
+  "first_name",
+  "other_name",
+  "phone_no",
+  "column_break_ujzu",
+  "sponsored",
+  "sponsor",
+  "sex",
+  "age",
+  "lga",
+  "column_break_flju",
+  "trade_class",
+  "dob_nin",
+  "dob_bvn",
+  "rmks",
+  "screening_of_credentials_ex_section",
+  "chest_no",
+  "type_of_certificate",
+  "no_of_pass",
+  "column_break_yhpd",
+  "pass_in_english",
+  "credentials_status",
+  "credential_rmks",
+  "physical_inspection__medical_examination_section",
+  "height",
+  "bp",
+  "pe",
+  "column_break_anlc",
+  "inspection_rmks",
+  "physical_status",
+  "physical_fitness_section",
+  "32_km_race",
+  "push_up",
+  "obstacle",
+  "column_break_kwyt",
+  "sit_up",
+  "heaving",
+  "total_scores",
+  "fitness_status",
+  "detail_med_proforma_section",
+  "weight",
+  "fbc",
+  "rvs",
+  "cxr",
+  "ent",
+  "med_rmks",
+  "column_break_mhiv",
+  "urinalysis",
+  "fbs",
+  "hbv_and_c",
+  "eye",
+  "psych",
+  "detailed_medical_status",
+  "written_test_section",
+  "math",
+  "english",
+  "gen_paper",
+  "column_break_vukd",
+  "oral_interview",
+  "total",
+  "test_rmks",
+  "written_test_status",
+  "master_score_section",
+  "edn_qual",
+  "pt_test",
+  "total_marks",
+  "master_rmks",
+  "column_break_kbco",
+  "written_test",
+  "oral",
+  "position",
+  "selection_section",
+  "selection_status",
+  "disqualification_rmks"
+ ],
+ "fields": [
+  {
+   "fieldname": "application_no",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Application No",
+   "options": "Recruitment Application",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "bold": 1,
+   "fetch_from": "application_no.surname",
+   "fieldname": "surname",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Surname",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "application_no.first_name",
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "First Name",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "application_no.other_names",
+   "fieldname": "other_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Other Name",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "application_no.gender",
+   "fieldname": "sex",
+   "fieldtype": "Select",
+   "in_standard_filter": 1,
+   "label": "Sex",
+   "options": "\nMale\nFemale",
+   "read_only": 1
+  },
+  {
+   "fieldname": "column_break_ujzu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fetch_from": "application_no.age",
+   "fieldname": "age",
+   "fieldtype": "Data",
+   "label": "Age",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "application_no.local_government",
+   "fieldname": "lga",
+   "fieldtype": "Link",
+   "label": "LGA",
+   "options": "Local Government",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "application_no.mobile_number",
+   "fieldname": "phone_no",
+   "fieldtype": "Data",
+   "in_standard_filter": 1,
+   "label": "Phone No",
+   "read_only": 1
+  },
+  {
+   "fieldname": "column_break_flju",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fetch_from": "application_no.trades_category",
+   "fieldname": "trade_class",
+   "fieldtype": "Data",
+   "in_standard_filter": 1,
+   "label": "Trade Class",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "application_no.date_of_birth",
+   "fieldname": "dob_nin",
+   "fieldtype": "Data",
+   "label": "DOB NIN",
+   "read_only": 1
+  },
+  {
+   "fieldname": "dob_bvn",
+   "fieldtype": "Date",
+   "label": "DOB BVN"
+  },
+  {
+   "fieldname": "rmks",
+   "fieldtype": "Data",
+   "label": "Rmks"
+  },
+  {
+   "fieldname": "arrival_section",
+   "fieldtype": "Section Break",
+   "label": "Arrival"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "screening_of_credentials_ex_section",
+   "fieldtype": "Section Break",
+   "label": "Screening of Credentials Ex"
+  },
+  {
+   "fieldname": "chest_no",
+   "fieldtype": "Data",
+   "label": "Chest No"
+  },
+  {
+   "fieldname": "type_of_certificate",
+   "fieldtype": "Data",
+   "label": "Type of Certificate"
+  },
+  {
+   "fieldname": "no_of_pass",
+   "fieldtype": "Data",
+   "label": "No of Pass"
+  },
+  {
+   "fieldname": "column_break_yhpd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "pass_in_english",
+   "fieldtype": "Data",
+   "label": "Pass in English"
+  },
+  {
+   "fieldname": "credentials_status",
+   "fieldtype": "Select",
+   "in_standard_filter": 1,
+   "label": "Credentials Status",
+   "options": "\nQualified\nUnqualified"
+  },
+  {
+   "fieldname": "credential_rmks",
+   "fieldtype": "Data",
+   "label": "Rmks"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "physical_inspection__medical_examination_section",
+   "fieldtype": "Section Break",
+   "label": "Physical Inspection / Medical Examination"
+  },
+  {
+   "fieldname": "height",
+   "fieldtype": "Data",
+   "label": "Height"
+  },
+  {
+   "fieldname": "bp",
+   "fieldtype": "Data",
+   "label": "BP"
+  },
+  {
+   "fieldname": "pe",
+   "fieldtype": "Data",
+   "label": "PE"
+  },
+  {
+   "fieldname": "column_break_anlc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "inspection_rmks",
+   "fieldtype": "Small Text",
+   "label": "Rmks"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "physical_fitness_section",
+   "fieldtype": "Section Break",
+   "label": "Physical Fitness"
+  },
+  {
+   "fieldname": "32_km_race",
+   "fieldtype": "Int",
+   "label": "3.2 Km Race (15 pts)",
+   "non_negative": 1
+  },
+  {
+   "fieldname": "push_up",
+   "fieldtype": "Int",
+   "label": "Push Up (10 pts)"
+  },
+  {
+   "fieldname": "sit_up",
+   "fieldtype": "Int",
+   "label": "Sit Up (10 pts)"
+  },
+  {
+   "fieldname": "column_break_kwyt",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "obstacle",
+   "fieldtype": "Int",
+   "label": "Obstacle (15 pts)"
+  },
+  {
+   "fieldname": "heaving",
+   "fieldtype": "Data",
+   "label": "Heaving"
+  },
+  {
+   "fieldname": "total_scores",
+   "fieldtype": "Int",
+   "label": "Total Scores (50 pts)"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "detail_med_proforma_section",
+   "fieldtype": "Section Break",
+   "label": "Detail Med Proforma"
+  },
+  {
+   "fieldname": "weight",
+   "fieldtype": "Float",
+   "label": "Weight"
+  },
+  {
+   "fieldname": "fbc",
+   "fieldtype": "Data",
+   "label": "FBC"
+  },
+  {
+   "fieldname": "rvs",
+   "fieldtype": "Data",
+   "label": "RVS"
+  },
+  {
+   "fieldname": "cxr",
+   "fieldtype": "Data",
+   "label": "CXR"
+  },
+  {
+   "fieldname": "ent",
+   "fieldtype": "Data",
+   "label": "ENT"
+  },
+  {
+   "fieldname": "med_rmks",
+   "fieldtype": "Small Text",
+   "label": "Rmks"
+  },
+  {
+   "fieldname": "column_break_mhiv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "urinalysis",
+   "fieldtype": "Data",
+   "label": "Urinalysis"
+  },
+  {
+   "fieldname": "fbs",
+   "fieldtype": "Data",
+   "label": "FBS"
+  },
+  {
+   "fieldname": "hbv_and_c",
+   "fieldtype": "Data",
+   "label": "HBV and C"
+  },
+  {
+   "fieldname": "eye",
+   "fieldtype": "Data",
+   "label": "EYE"
+  },
+  {
+   "fieldname": "psych",
+   "fieldtype": "Data",
+   "label": "Psych"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "written_test_section",
+   "fieldtype": "Section Break",
+   "hide_border": 1,
+   "label": "Written Test"
+  },
+  {
+   "fieldname": "math",
+   "fieldtype": "Int",
+   "label": "Math (10 Marks)"
+  },
+  {
+   "fieldname": "column_break_vukd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "english",
+   "fieldtype": "Int",
+   "label": "English (10 Marks)"
+  },
+  {
+   "fieldname": "oral_interview",
+   "fieldtype": "Int",
+   "label": "Oral Interview (20 Marks)"
+  },
+  {
+   "fieldname": "gen_paper",
+   "fieldtype": "Int",
+   "label": "Gen Paper (10 Marks)"
+  },
+  {
+   "fieldname": "total",
+   "fieldtype": "Int",
+   "label": "Total (50 Marks)"
+  },
+  {
+   "fieldname": "test_rmks",
+   "fieldtype": "Data",
+   "label": "Rmks"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "master_score_section",
+   "fieldtype": "Section Break",
+   "label": "Master Score"
+  },
+  {
+   "fieldname": "edn_qual",
+   "fieldtype": "Data",
+   "label": "Edn Qual"
+  },
+  {
+   "fieldname": "pt_test",
+   "fieldtype": "Int",
+   "label": "PT Test (50 Marks)"
+  },
+  {
+   "fieldname": "total_marks",
+   "fieldtype": "Int",
+   "label": "Total Marks (100)"
+  },
+  {
+   "fieldname": "master_rmks",
+   "fieldtype": "Small Text",
+   "label": "Rmks"
+  },
+  {
+   "fieldname": "column_break_kbco",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "written_test",
+   "fieldtype": "Int",
+   "label": "Written Test (30 Marks)"
+  },
+  {
+   "fieldname": "oral",
+   "fieldtype": "Int",
+   "label": "Oral (20 Marks)"
+  },
+  {
+   "fieldname": "position",
+   "fieldtype": "Data",
+   "label": "Position"
+  },
+  {
+   "fieldname": "sponsor",
+   "fieldtype": "Data",
+   "label": "Sponsor"
+  },
+  {
+   "default": "0",
+   "fieldname": "sponsored",
+   "fieldtype": "Check",
+   "label": "Sponsored"
+  },
+  {
+   "fieldname": "physical_status",
+   "fieldtype": "Select",
+   "label": "Inspection Status",
+   "options": "\nQualified\nUnqualified"
+  },
+  {
+   "fieldname": "fitness_status",
+   "fieldtype": "Select",
+   "label": "Physical Fitness Status",
+   "options": "\nQualified\nUnqualified"
+  },
+  {
+   "fieldname": "detailed_medical_status",
+   "fieldtype": "Select",
+   "label": "Detailed Medical Status",
+   "options": "\nQualified\nUnqualified"
+  },
+  {
+   "fieldname": "written_test_status",
+   "fieldtype": "Select",
+   "label": "Written Test Status",
+   "options": "\nQualified\nUnqualified"
+  },
+  {
+   "fieldname": "selection_section",
+   "fieldtype": "Section Break",
+   "label": "Selection"
+  },
+  {
+   "fieldname": "selection_status",
+   "fieldtype": "Select",
+   "label": "Selection Status",
+   "options": "\nSelected\nDisqualified"
+  },
+  {
+   "depends_on": "eval:doc.sponsored == 1 && doc.selection_status == \"Disqualified\"",
+   "fieldname": "disqualification_rmks",
+   "fieldtype": "Small Text",
+   "label": "Disqualification Rmks"
+  }
+ ],
+ "hide_toolbar": 1,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-05-30 21:35:15.934349",
+ "modified_by": "Administrator",
+ "module": "DRM",
+ "name": "State Recruitment",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "if_owner": 1,
+   "import": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "SRO",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_seen": 1,
+ "track_views": 1
+}
